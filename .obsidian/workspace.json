@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "67b8288681680062",
+    "type": "split",
+    "children": [
+      {
+        "id": "00fb63620a330101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33bce64ae78b61da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62f0561ccac02d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57133086af3292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfbc798b5b1433d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8818c16c4f22c359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "281c445d12911d97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4245d20e68d0b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52297594058c251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79b09bac84d814b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11eca3db7528863e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd0928fcacc88d74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0642b4bf55500c41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "dfbc798b5b1433d6",
+  "lastOpenFiles": [
+    "Prueba LaTex.md",
+    "Calculo_II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md",
+    "Calculo_II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md",
+    "Calculo_II/Unidad 2/Cálculo aplicado a la función exponencial natural.md",
+    "Calculo_II/Unidad 2",
+    "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
+    "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
+    "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Calculo_II/Unidad 1",
+    "Calculo_II",
+    "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
+    "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
+    "Calculo_II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md",
+    "Calculo_II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md",
+    "Calculo_II/Unidad 2/Cálculo aplicado a la función exponencial natural.md",
+    "Calculo_II/Unidad 1",
+    "Calculo_II/Unidad 2",
+    "Calculo_II",
+    "1.1 Integrales definidas.md",
+    "Cálculo II/Unidad 2/Untitled.canvas",
+    "Cálculo II/Pasted image 20231209210456.png",
+    "Cálculo II/Pasted image 20231209210435.png",
+    "Cálculo II/Unidad 1/Untitled",
+    "().md",
+    "Cálculo II/1. Unidad 1.md",
+    "Cálculo II/1.2 Teorema fundamental del Cálculo. Integrales definidas con límite superior variable.md",
+    "Cálculo II/1.1 La integral definida como límite de una suma de Riemann y sus propiedades.md",
+    "1.1 La integral definida como límite de una suma de Riemann y sus propiedades..md",
+    "hola.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2023-12-07.md",
+    "Prueba.cpp.md"
+  ]
+}

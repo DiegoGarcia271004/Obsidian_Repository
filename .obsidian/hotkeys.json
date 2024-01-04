@@ -1,0 +1,18 @@
+{
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1702171566689": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-functionplot:insert-functionplot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F1"
+    }
+  ]
+}
