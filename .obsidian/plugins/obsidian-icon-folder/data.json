@@ -26,13 +26,22 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Calculo_II": "FasCalculator",
+  "Cálculo II/Unidad 1": "FasFolderTree",
+  "Cálculo II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
+  "Cálculo II/Unidad 1/1.2 Integrales definidas con límite superior variable.md": "RiFunctions",
+  "Cálculo II/Unidad 1/1.3 Aplicaciones de la integral definida.md": "RiFunctions",
+  "Cálculo II/Unidad 2": "FasFolderTree",
+  "Cálculo II/Unidad 2/Cálculo aplicado a la función exponencial natural.md": "FabWpexplorer",
+  "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer",
+  "Cálculo II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
+  "Cálculo II": "FasCalculator",
+  "Calculo_II": "FasFolderOpen",
   "Calculo_II/Unidad 1": "FasFolderTree",
   "Calculo_II/Unidad 2": "FasFolderTree",
   "Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
   "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md": "RiFunctions",
   "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md": "RiFunctions",
-  "Calculo_II/Unidad 2/Cálculo aplicado a la función exponencial natural.md": "FabWpexplorer",
-  "Calculo_II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
-  "Calculo_II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer"
+  "Calculo_II/Unidad 2/Cálculo aplicado a la función exponencial natural.md": "FasCalculator",
+  "Calculo_II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FasCalculator",
+  "Calculo_II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FasCalculator"
 }
