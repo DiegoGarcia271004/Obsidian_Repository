@@ -19,8 +19,12 @@
             "id": "a2e719eb7d5ffd1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md"
+              }
             }
           }
         ]
@@ -147,8 +155,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dfbc798b5b1433d6",
+  "active": "a2e719eb7d5ffd1b",
   "lastOpenFiles": [
+    "Prueba LaTex.md",
     "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Calculo_II/Archivos/Archivos.canvas",
     "Calculo_II/Archivos/Recta_num3.png",
@@ -166,7 +175,6 @@
     "Cálculo II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
     "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md",
     "1.1 Integrales definidas.md",
-    "Prueba LaTex.md",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Cálculo II/Pasted image 20231209210456.png",
     "Cálculo II/Pasted image 20231209210435.png",
