@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "file": "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "file": "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+                "file": "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md"
+                "file": "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "33bce64ae78b61da",
   "lastOpenFiles": [
-    "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md",
     "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Prueba LaTex.md",
+    "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
+    "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md",
     "Calculo_II/Archivos/Archivos.canvas",
     "Calculo_II/Archivos/Sumas.png",
-    "Prueba LaTex.md",
     "Calculo_II/Archivos/Recta_num3.png",
     "Calculo_II/Archivos/Recta_num2.png",
     "Calculo_II/Archivos",
     "Calculo_II/Archivos/Recta_num.png",
     "Sin.md",
     "Calculo_II/Archivos/Recta_num.png",
-    "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
     "Calculo_II/Unidad 2/Cálculo aplicado a la función exponencial natural.md",
     "Cálculo II/Unidad 1/1.1 Integrales definidas.md",
     "Cálculo II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
