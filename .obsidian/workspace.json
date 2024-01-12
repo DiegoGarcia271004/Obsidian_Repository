@@ -11,14 +11,6 @@
             "id": "33bce64ae78b61da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2e719eb7d5ffd1b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,11 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2e719eb7d5ffd1b",
+  "active": "33bce64ae78b61da",
   "lastOpenFiles": [
-    "Prueba LaTex.md",
+    "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md",
     "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Calculo_II/Archivos/Archivos.canvas",
+    "Calculo_II/Archivos/Sumas.png",
+    "Prueba LaTex.md",
     "Calculo_II/Archivos/Recta_num3.png",
     "Calculo_II/Archivos/Recta_num2.png",
     "Calculo_II/Archivos",

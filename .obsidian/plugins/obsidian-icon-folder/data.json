@@ -48,5 +48,10 @@
   "Calculo_II/Archivos/Archivos.canvas": "FasPencil",
   "Calculo_II/Archivos/Recta_num.png": "FasPencil",
   "Calculo_II/Archivos/Recta_num2.png": "FasPencil",
-  "Calculo_II/Archivos/Recta_num3.png": "FasPencil"
+  "Calculo_II/Archivos/Recta_num3.png": "FasPencil",
+  "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md": {
+    "iconName": null,
+    "inheritanceIcon": "RiFunctions"
+  },
+  "Calculo_II/Archivos/Sumas.png": "FasPencil"
 }
