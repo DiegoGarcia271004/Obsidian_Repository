@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+                "file": "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+                "file": "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+                "file": "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md"
+                "file": "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md"
               }
             }
           }
@@ -157,10 +157,12 @@
   },
   "active": "a2e719eb7d5ffd1b",
   "lastOpenFiles": [
+    "Calculo_II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md",
+    "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
+    "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
     "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
     "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
-    "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
     "Calculo_II/Archivos/Sumas.png",
     "Prueba LaTex.md",
     "Calculo_II/Archivos/Archivos.canvas",
