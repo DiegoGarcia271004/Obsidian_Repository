@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"777575c8459a891b","type":"file","file":"Calculo_II/Archivos/Recta_num.png","x":-460,"y":-360,"width":397,"height":29},
-		{"id":"118b8cebead116d6","type":"file","file":"Calculo_II/Archivos/Recta_num2.png","x":-463,"y":-300,"width":395,"height":30},
-		{"id":"34c35b86327f5787","type":"file","file":"Calculo_II/Archivos/Recta_num3.png","x":-463,"y":-240,"width":400,"height":35},
-		{"id":"d8417fbd24e20a9b","type":"file","file":"Calculo_II/Archivos/Sumas.png","x":-468,"y":-680,"width":400,"height":247}
-	],
-	"edges":[]
-}
