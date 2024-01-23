@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d9b7f8db3796da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md"
+                "file": "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md"
               }
             }
           }
@@ -159,14 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d9b7f8db3796da5",
+  "active": "33bce64ae78b61da",
   "lastOpenFiles": [
+    "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+    "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
+    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
+    "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
+    "Calculo_II/Unidad 3",
     "Calculo_II/Anexos/Archivos.canvas",
     "Calculo_II/Anexos/Restricciones.png",
-    "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
     "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
     "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
-    "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
     "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
     "Sin título.md",
     "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
@@ -197,9 +187,7 @@
     "Cálculo II/Unidad 2",
     "Cálculo II/1. Unidad 1.md",
     "Cálculo II/1.2 Teorema fundamental del Cálculo. Integrales definidas con límite superior variable.md",
-    "Cálculo II/1.1 La integral definida como límite de una suma de Riemann y sus propiedades.md",
     "Cálculo II/Unidad 1",
-    "1.1 La integral definida como límite de una suma de Riemann y sus propiedades..md",
     "Cálculo II",
     "Untitled.canvas"
   ]
