@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMasksTheater",
+      "FasSpaghettiMonsterFlying",
+      "FasFolderTree",
       "FasPencil",
-      "FasCalculator",
-      "FabWpexplorer",
-      "RiFunctions",
-      "FasFolderOpen"
+      "FasCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,8 @@
   "Calculo_II/Anexos/Recta_num.png": "FasPencil",
   "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md": "FasCalculator",
   "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md": "FasCalculator",
-  "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md": "FasCalculator"
+  "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas2.6.md": "FasCalculator",
+  "Calculo_II/Unidad 3": "FasFolderTree",
+  "Calculo_II/Unidad 3/3 Técnicas de Integración.md": "FasMasksTheater",
+  "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md": "FasSpaghettiMonsterFlying"
 }
