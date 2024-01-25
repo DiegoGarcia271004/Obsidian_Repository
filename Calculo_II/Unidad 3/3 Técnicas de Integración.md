@@ -1,3 +1,9 @@
+---
+tags:
+  - Calculo2
+  - Integrales
+  - Matematica
+---
 1) [[3.1 Integrales de potencias de funciones trigonométricas]]
 2) [[3.2 Integración por partes]]
 3) [[3.3 Integración por sustitución trigonométrica]]

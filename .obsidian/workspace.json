@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 3/3.2 Integración por partes.md",
+                "file": "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 3/3.2 Integración por partes.md",
+                "file": "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 3/3.2 Integración por partes.md",
+                "file": "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 3/3.2 Integración por partes.md"
+                "file": "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "2d9b7f8db3796da5",
   "lastOpenFiles": [
-    "Calculo_II/Anexos/Archivos.canvas",
-    "Calculo_II/Unidad 3/3.2 Integración por partes.md",
-    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
+    "Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
     "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
+    "Calculo_II/Unidad 3/3.2 Integración por partes.md",
+    "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
+    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
+    "Prueba LaTex.md",
     "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+    "Calculo_II/Anexos/Archivos.canvas",
     "Calculo_II/Anexos/Restricciones.png",
     "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas2.6.md",
     "Calculo_II/Unidad 3",
@@ -178,7 +181,6 @@
     "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
     "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
     "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
-    "Prueba LaTex.md",
     "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md",
     "Calculo_II/Anexos/Sumas.png",
@@ -195,7 +197,6 @@
     "Cálculo II/Unidad 2/Cálculo aplicado a la función exponencial natural.md",
     "Cálculo II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
     "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md",
-    "1.1 Integrales definidas.md",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Cálculo II/Pasted image 20231209210456.png",
     "Cálculo II/Pasted image 20231209210435.png",
