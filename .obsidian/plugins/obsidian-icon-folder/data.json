@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiInfinityLine",
+      "FasArrowRightLong",
+      "FasL",
       "FasMasksTheater",
-      "FasSpaghettiMonsterFlying",
-      "FasFolderTree",
-      "FasPencil",
-      "FasCalculator"
+      "FasSpaghettiMonsterFlying"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,7 @@
   "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Anexos/Restricciones.png": "FasPencil"
+  "Calculo_II/Anexos/Restricciones.png": "FasPencil",
+  "Calculo_II/Unidad 4": "FasFolderTree",
+  "Calculo_II/Unidad 4/Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine"
 }
