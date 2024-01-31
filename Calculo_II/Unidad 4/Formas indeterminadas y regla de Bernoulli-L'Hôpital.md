@@ -65,3 +65,25 @@ $$
 \end{align*} 
 $$
 
+### Límites con indeterminaciones tipo exponencial
+
+En el caso de que al realizar un límite obtengamos alguna de las formas de indeterminación de tipo tipo exponencial que vimos anteriormente, es necesario aplicar un logaritmo natural a la función con el fin de eliminar tal indeterminación y pasar a una indeterminación tipo producto, una vez dado eso, se procede como tal.
+
+**Ejemplo**
+Demuestre que $\lim_{ x \to \infty }\left( 1+\frac{1}{x} \right)^{x}=e$
+
+$$
+\begin{align*}
+&\lim_{ x \to \infty } \left( 1+\frac{1}{x} \right)^{x}=\left( 1+\frac{1}{\infty} \right)^{\infty}=1^{\infty}&&\text{indeterminación}\\
+&y=\lim_{ x \to \infty } \left( 1+\frac{1}{x} \right)^{x}\\
+&\ln (y)=\lim_{ x \to \infty } \ln\left( \left( 1+\frac{1}{x} \right)^{x} \right)\\
+&\ln(y)=\lim_{ x \to \infty } x\ln\left( 1+\frac{1}{x} \right)=\infty \ln\left( 1+\frac{1}{\infty} \right)=\infty \ln(1)=(\infty)(0)&&\text{indeterminación}\\
+&\ln(y)=\lim_{ x \to \infty } \frac{\ln\left( 1+\frac{1}{x} \right)}{\frac{1}{x}}=\frac{\ln\left( 1+\frac{1}{\infty} \right)}{\frac{1}{\infty}}=\frac{\ln(1)}{0}=\frac{0}{0}&&\text{A.B.L'H.}\\
+&\ln(y)=\lim_{ x \to \infty } \frac{\frac{-\frac{1}{x^{2}}}{1+\frac{1}{x}}}{-\frac{1}{x^{2}}}=\lim_{ x \to \infty }\frac{-\frac{1}{x(x+1)}}{-\frac{1}{x^{2}}}=\lim_{ x \to \infty }\frac{x}{x+1}=\frac{\infty}{\infty}&&\text{A.B.L'H.}\\
+&\ln(y)=\lim_{ x \to \infty } \frac{1}{1}=\lim_{ x \to \infty }1=1\\
+&\ln(y)=1\\
+&e^{\ln(y)}=e^{1}\\
+&y=e\\
+&Q.E.D.
+\end{align*}
+$$

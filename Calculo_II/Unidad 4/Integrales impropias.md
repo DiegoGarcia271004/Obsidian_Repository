@@ -1,0 +1,22 @@
+---
+tags:
+  - Calculo2
+  - Integrales
+  - Funciones
+  - Matematica
+---
+## Tipo 1
+### Límites con tendencia infinita
+
+1. 
+$$
+\int_{a}^{\infty}  \, dx  =\lim_{ t \to \infty } \int _{a}^{t} f(x) \, dx 
+$$
+2. 
+$$
+\int_{-\infty}^{a} f(x) \, dx =\lim_{ m \to \infty }  \int_{-\infty}^{a} f(x) \, dx 
+$$
+3. 
+$$
+\int_{-\infty}^{\infty} f(x) \, dx =\int_{-\infty}^{a} f(x) \, dx+\int_{a}^{\infty}  \, dx   =\lim_{ m \to -\infty } \int_{m}^{a} f(x) \, dx +\lim_{ t \to \infty } 
+$$$
