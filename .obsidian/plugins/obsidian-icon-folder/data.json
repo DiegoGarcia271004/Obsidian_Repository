@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPencil",
       "RiInfinityLine",
       "FasArrowRightLong",
       "FasL",
-      "FasMasksTheater",
-      "FasSpaghettiMonsterFlying"
+      "FasMasksTheater"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,6 +66,9 @@
   "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Anexos/Restricciones.png": "FasPencil",
   "Calculo_II/Unidad 4": "FasFolderTree",
-  "Calculo_II/Unidad 4/Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
-  "Calculo_II/Unidad 4/Integrales impropias.md": "RiInfinityLine"
+  "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md": "RiInfinityLine",
+  "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
+  "Calculo_II/Unidad 4/4.2 Integrales impropias.md": "RiInfinityLine",
+  "Calculo_II/Anexos/Secciones_transversales.png": "FasPencil",
+  "Calculo_II/Anexos/Solido_de_revolucion.png": "FasPencil"
 }
