@@ -6,7 +6,8 @@
 		{"id":"d8417fbd24e20a9b","type":"file","file":"Calculo_II/Anexos/Sumas.png","x":-468,"y":-680,"width":400,"height":247},
 		{"id":"6c61a09884ea30b0","type":"file","file":"Calculo_II/Anexos/Restricciones.png","x":-460,"y":-160,"width":400,"height":308},
 		{"id":"92dc8abd2b4b95af","type":"file","file":"Calculo_II/Anexos/Solido_de_revolucion.png","x":-460,"y":200,"width":400,"height":315},
-		{"id":"989396f8ad495962","x":-20,"y":200,"width":400,"height":232,"type":"file","file":"Calculo_II/Anexos/Secciones_transversales.png"}
+		{"id":"989396f8ad495962","type":"file","file":"Calculo_II/Anexos/Secciones_transversales.png","x":-20,"y":200,"width":400,"height":232},
+		{"id":"634d56a86cda2950","x":-20,"y":-176,"width":400,"height":340,"type":"file","file":"Calculo_II/Anexos/Solidos_anulares.png"}
 	],
 	"edges":[]
 }
