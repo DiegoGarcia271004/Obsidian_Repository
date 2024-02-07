@@ -46,7 +46,10 @@
   },
   "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md": "FasCalculator",
   "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md": "FasCalculator",
-  "Calculo_II/Anexos": "FasFolderTree",
+  "Calculo_II/Anexos": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "FasPencil"
+  },
   "Calculo_II/Anexos/Archivos.canvas": "FasPencil",
   "Calculo_II/Anexos/Recta_num3.png": "FasPencil",
   "Calculo_II/Anexos/Sumas.png": "FasPencil",
@@ -63,12 +66,22 @@
   "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Anexos/Restricciones.png": "FasPencil",
-  "Calculo_II/Unidad 4": "FasFolderTree",
+  "Calculo_II/Unidad 4": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "RiInfinityLine"
+  },
   "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md": "RiInfinityLine",
   "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
   "Calculo_II/Unidad 4/4.2 Integrales impropias.md": "RiInfinityLine",
   "Calculo_II/Anexos/Secciones_transversales.png": "FasPencil",
   "Calculo_II/Anexos/Solido_de_revolucion.png": "FasPencil",
   "Calculo_II/Anexos/Solidos_anulares.png": "FasPencil",
-  "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying"
+  "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying",
+  "Calculo_II/Anexos/ejemplo_revolucion.png": "FasPencil",
+  "Calculo_II/Anexos/longitud.png": "FasPencil",
+  "Calculo_II/Anexos/Diagrama_1.1.png": "FasPencil",
+  "Calculo_II/Anexos/Pasted image 20240206220920.png": {
+    "iconName": null,
+    "inheritanceIcon": "FasPencil"
+  }
 }
