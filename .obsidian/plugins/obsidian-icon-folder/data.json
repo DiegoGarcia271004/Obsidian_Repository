@@ -50,11 +50,6 @@
     "iconName": "FasFolderTree",
     "inheritanceIcon": "FasPencil"
   },
-  "Calculo_II/Anexos/Archivos.canvas": "FasPencil",
-  "Calculo_II/Anexos/Recta_num3.png": "FasPencil",
-  "Calculo_II/Anexos/Sumas.png": "FasPencil",
-  "Calculo_II/Anexos/Recta_num2.png": "FasPencil",
-  "Calculo_II/Anexos/Recta_num.png": "FasPencil",
   "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md": "FasCalculator",
   "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md": "FasCalculator",
   "Calculo_II/Unidad 3": "FasFolderTree",
@@ -65,7 +60,6 @@
   "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md": "FasCalculator",
   "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Anexos/Restricciones.png": "FasPencil",
   "Calculo_II/Unidad 4": {
     "iconName": "FasFolderTree",
     "inheritanceIcon": "RiInfinityLine"
@@ -73,15 +67,28 @@
   "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md": "RiInfinityLine",
   "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
   "Calculo_II/Unidad 4/4.2 Integrales impropias.md": "RiInfinityLine",
-  "Calculo_II/Anexos/Secciones_transversales.png": "FasPencil",
-  "Calculo_II/Anexos/Solido_de_revolucion.png": "FasPencil",
-  "Calculo_II/Anexos/Solidos_anulares.png": "FasPencil",
   "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Anexos/ejemplo_revolucion.png": "FasPencil",
-  "Calculo_II/Anexos/longitud.png": "FasPencil",
-  "Calculo_II/Anexos/Diagrama_1.1.png": "FasPencil",
   "Calculo_II/Anexos/Pasted image 20240206220920.png": {
     "iconName": null,
     "inheritanceIcon": "FasPencil"
-  }
+  },
+  "Calculo_II/Anexos/PNG/bombeo.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/bombeo1.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/ejemplo_revolucion.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/longitud.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Recta_num.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Recta_num2.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Recta_num3.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Restricciones.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Secciones_transversales.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Solido_de_revolucion.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Solidos_anulares.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/Sumas.png": "FasPencil",
+  "Calculo_II/Anexos/PNG": {
+    "iconName": "FasPencil",
+    "inheritanceIcon": "FasPencil"
+  },
+  "Calculo_II/Anexos/Archivos.canvas": "FasPencil",
+  "Calculo_II/Anexos/PNG/Placas.png": "FasPencil",
+  "Calculo_II/Anexos/PNG/placa1.png": "FasPencil"
 }
