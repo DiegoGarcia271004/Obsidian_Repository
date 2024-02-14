@@ -35,10 +35,7 @@
   "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
   "Cálculo II": "FasCalculator",
-  "Calculo_II": {
-    "iconName": "FasFolderOpen",
-    "inheritanceIcon": "FasFolderTree"
-  },
+  "Calculo_II": "FasFolderOpen",
   "Calculo_II/Unidad 1": "FasFolderTree",
   "Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
   "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md": "RiFunctions",
@@ -94,6 +91,9 @@
   "Calculo_II/Anexos/Archivos.canvas": "FasPencil",
   "Calculo_II/Anexos/PNG/Placas.png": "FasPencil",
   "Calculo_II/Anexos/PNG/placa1.png": "FasPencil",
-  "Calculo_II/Unidad 5": "FasFolderTree",
-  "Calculo_II/Unidad 5/Funciones vectoriales.md": "FasArrowRightLong"
+  "Calculo_II/Unidad 5": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "FasArrowRightLong"
+  },
+  "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md": "FasArrowRightLong"
 }
