@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabBattleNet",
       "FasFolderTree",
       "FasPencil",
       "RiInfinityLine",
-      "FasArrowRightLong",
-      "FasL"
+      "FasArrowRightLong"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
   "Cálculo II/Unidad 2/Cálculo aplicado a la función exponencial natural.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
-  "Cálculo II": "FasCalculator",
   "Calculo_II": "FasFolderOpen",
   "Calculo_II/Unidad 1": "FasFolderTree",
   "Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
@@ -95,5 +94,10 @@
     "iconName": "FasFolderTree",
     "inheritanceIcon": "FasArrowRightLong"
   },
-  "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md": "FasArrowRightLong"
+  "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md": "FasArrowRightLong",
+  "Calculo_II/Unidad 6": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "FabBattleNet"
+  },
+  "Calculo_II/Anexos/PNG/Cálculo II": "FasCalculator"
 }

@@ -23,16 +23,26 @@
             "id": "2d9b7f8db3796da5",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3d1d524cdce0270e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md"
+                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md"
               }
             }
           },
@@ -168,56 +178,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d9b7f8db3796da5",
+  "active": "dfbc798b5b1433d6",
   "lastOpenFiles": [
-    "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
-    "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
-    "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
-    "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md",
-    "Calculo_II/Unidad 4/4.2 Integrales impropias.md",
-    "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
-    "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
-    "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
-    "Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
-    "Calculo_II/Unidad 3/3.2 Integración por partes.md",
-    "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
-    "Calculo_II/Unidad 5/Funciones vectoriales.md",
-    "Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
-    "Excalidraw",
-    "Cálculo II/Pasted Image 20240210002701_142.png",
-    "Cálculo II/Pasted Image 20240210001044_075.png",
-    "Cálculo II/Pasted Image 20240209225205_088.png",
-    "Cálculo II/Pasted Image 20240209232205_098.png",
-    "Cálculo II/Pasted Image 20240210000824_330.png",
-    "Cálculo II/Pasted Image 20240209225916_081.png",
-    "Cálculo II/Pasted Image 20240209225120_071.png",
-    "Cálculo II/Pasted Image 20240209223038_074.png",
-    "Cálculo II",
-    "Calculo_II/Unidad 5",
-    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
-    "Calculo_II/Anexos/Archivos.canvas",
-    "Calculo_II/Anexos/PNG/circulos.png",
-    "Calculo_II/Anexos/PNG/Recta.png",
-    "Calculo_II/Anexos/PNG",
-    "Prueba LaTex.md",
-    "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Calculo_II/Anexos/Sin título.md",
-    "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
     "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
     "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
     "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
-    "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
     "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
-    "Calculo_II/Unidad 1/1.3 Aplicaciones de la integral definida.md",
+    "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
+    "Calculo_II/Unidad 3/3.2 Integración por partes.md",
+    "Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
+    "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
+    "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
+    "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
+    "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
+    "Calculo_II/Unidad 4/4.2 Integrales impropias.md",
+    "Calculo_II/Anexos/Archivos.canvas",
+    "Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png",
+    "Calculo_II/Anexos/PNG/Cálculo II/caso_b.png",
+    "Calculo_II/Anexos/PNG/Cálculo II/caso_a.png",
+    "Calculo_II/Unidad 6/6.3 Coordenadas cilíndricas y esféricas.md",
+    "Calculo_II/Unidad 6/6.2 Funciones polares.md",
+    "Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png",
+    "Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png",
+    "Calculo_II/Unidad 6/6.1 Sistemas de coordenadas polares.md",
+    "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md",
+    "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+    "Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
+    "Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
+    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
+    "Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
+    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216134333_784.png",
+    "Prueba LaTex.md",
+    "Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
+    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215212554_063.png",
+    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215203518_132.png",
+    "Calculo_II/Unidad 6",
+    "Calculo_II/Unidad 5/Funciones vectoriales.md",
+    "Excalidraw",
+    "Calculo_II/Anexos/PNG/Cálculo II",
+    "Calculo_II/Unidad 5",
+    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
+    "Calculo_II/Anexos/PNG",
+    "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Calculo_II/Anexos/Sin título.md",
     "Calculo_II/Unidad 4",
-    "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas2.6.md",
     "Calculo_II/Unidad 3",
     "Sin título",
-    "Calculo_II/Unidad 2/Sin título.md",
     "Calculo_II/Anexos",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Cálculo II/Unidad 1/Untitled",
-    "Cálculo II/Unidad 2",
     "Untitled.canvas"
   ]
 }

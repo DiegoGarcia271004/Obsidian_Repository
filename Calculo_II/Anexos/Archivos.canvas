@@ -14,7 +14,14 @@
 		{"id":"6d8d7b706a3b7130","type":"file","file":"Calculo_II/Anexos/PNG/bombeo.png","x":420,"y":80,"width":400,"height":307},
 		{"id":"8099f04a05fa417e","type":"file","file":"Calculo_II/Anexos/PNG/bombeo1.png","x":800,"y":-301,"width":400,"height":325},
 		{"id":"942d57539c66e6fa","type":"file","file":"Calculo_II/Anexos/PNG/Placas.png","x":840,"y":106,"width":400,"height":281},
-		{"id":"2b9d384042595d31","x":880,"y":-621,"width":400,"height":280,"type":"file","file":"Calculo_II/Anexos/PNG/placa1.png"}
+		{"id":"2b9d384042595d31","type":"file","file":"Calculo_II/Anexos/PNG/placa1.png","x":880,"y":-621,"width":400,"height":280},
+		{"id":"5ed0590e64f1cc34","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/coordenadas.png","x":1240,"y":-301,"width":399,"height":348},
+		{"id":"a237ac3ed5dd132b","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/Polares.png","x":1280,"y":106,"width":400,"height":369},
+		{"id":"34a338541b727094","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png","x":-460,"y":580,"width":360,"height":400},
+		{"id":"f07106990792fdb0","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png","x":-20,"y":580,"width":360,"height":400},
+		{"id":"1c6329c078087bec","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/caso_a.png","x":420,"y":515,"width":400,"height":339},
+		{"id":"5e9a5bcfe57a737b","type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/caso_b.png","x":880,"y":515,"width":400,"height":354},
+		{"id":"2d50c3e60b4aa6f3","x":1340,"y":537,"width":400,"height":332,"type":"file","file":"Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png"}
 	],
 	"edges":[]
 }
