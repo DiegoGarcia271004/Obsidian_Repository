@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33bce64ae78b61da",
+            "id": "2d9b7f8db3796da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
+                "file": "Ciclo_04/Bases_de_Datos/Generalidades.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d9b7f8db3796da5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3d1d524cdce0270e",
+            "id": "7014a675af142e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md"
+                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md"
               }
             }
           },
@@ -169,65 +159,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfbc798b5b1433d6",
+  "active": "7014a675af142e1a",
   "lastOpenFiles": [
-    "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
-    "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
-    "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
-    "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
-    "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
-    "Calculo_II/Unidad 3/3.2 Integración por partes.md",
-    "Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
-    "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
-    "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
-    "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
-    "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
-    "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
-    "Calculo_II/Unidad 4/4.2 Integrales impropias.md",
-    "Calculo_II/Anexos/Archivos.canvas",
-    "Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png",
-    "Calculo_II/Anexos/PNG/Cálculo II/caso_b.png",
-    "Calculo_II/Anexos/PNG/Cálculo II/caso_a.png",
-    "Calculo_II/Unidad 6/6.3 Coordenadas cilíndricas y esféricas.md",
-    "Calculo_II/Unidad 6/6.2 Funciones polares.md",
-    "Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png",
-    "Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png",
-    "Calculo_II/Unidad 6/6.1 Sistemas de coordenadas polares.md",
-    "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md",
-    "Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
-    "Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
-    "Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
-    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
-    "Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
-    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216134333_784.png",
-    "Prueba LaTex.md",
-    "Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
-    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215212554_063.png",
-    "Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215203518_132.png",
-    "Calculo_II/Unidad 6",
+    "Ciclo_04/Bases_de_Datos/Generalidades.md",
+    "Ciclo_04/POO/Programación Orientada a Objetos.md",
+    "Ciclo_04/POO",
+    "Ciclo_04",
+    "Interciclo_23",
+    "Interciclo_23/Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
+    "Ciclo_04/Bases_de_Datos",
+    "Interciclo_23/Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
+    "Interciclo_23/Calculo_II/Unidad 6/6.3 Coordenadas cilíndricas y esféricas.md",
+    "Interciclo_23/Calculo_II/Unidad 6/6.2 Funciones polares.md",
+    "Interciclo_23/Calculo_II/Unidad 6/6.1 Sistemas de coordenadas polares.md",
+    "Interciclo_23/Calculo_II/Unidad 6",
+    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216134333_784.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214220530_070.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240209223038_074.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215212554_063.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215203518_132.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214223713_610.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214212820_251.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240210002701_142.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II",
+    "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Interciclo_23/Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.2 Integrales impropias.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
     "Calculo_II/Unidad 5/Funciones vectoriales.md",
-    "Excalidraw",
-    "Calculo_II/Anexos/PNG/Cálculo II",
-    "Calculo_II/Unidad 5",
-    "Calculo_II/Unidad 3/3 Técnicas de Integración.md",
-    "Calculo_II/Anexos/PNG",
-    "Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Interciclo_23/Excalidraw",
+    "Cálculo II",
+    "Interciclo_23/Calculo_II/Unidad 5",
+    "Interciclo_23/Calculo_II/Unidad 3/3 Técnicas de Integración.md",
+    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
+    "Interciclo_23/Calculo_II/Anexos/PNG",
+    "Prueba LaTex.md",
+    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Calculo_II/Anexos/Sin título.md",
-    "Calculo_II/Unidad 4",
-    "Calculo_II/Unidad 3",
-    "Sin título",
-    "Calculo_II/Anexos",
+    "Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
     "Cálculo II/Unidad 2/Untitled.canvas",
-    "Cálculo II/Unidad 1/Untitled",
     "Untitled.canvas"
   ]
 }

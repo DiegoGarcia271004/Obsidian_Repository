@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabBattleNet",
-      "FasFolderTree",
-      "FasPencil",
-      "RiInfinityLine",
-      "FasArrowRightLong"
+      "FasI",
+      "Fas4",
+      "FasBarsProgress",
+      "FasDatabase",
+      "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,70 +34,73 @@
   "Cálculo II/Unidad 2/Cálculo aplicado a la función exponencial natural.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
-  "Calculo_II": "FasFolderOpen",
-  "Calculo_II/Unidad 1": "FasFolderTree",
-  "Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
-  "Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md": "RiFunctions",
-  "Calculo_II/Unidad 2": "FasFolderTree",
+  "Cálculo II": "FasCalculator",
   "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md": {
     "iconName": null,
     "inheritanceIcon": "RiFunctions"
   },
-  "Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md": "FasCalculator",
-  "Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md": "FasCalculator",
-  "Calculo_II/Anexos": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "FasPencil"
-  },
-  "Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md": "FasCalculator",
-  "Calculo_II/Unidad 2/2.4 Modelos exponenciales.md": "FasCalculator",
-  "Calculo_II/Unidad 3": "FasFolderTree",
-  "Calculo_II/Unidad 3/3 Técnicas de Integración.md": "FasMasksTheater",
-  "Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Unidad 3/3.2 Integración por partes.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md": "FasCalculator",
-  "Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
-  "Calculo_II/Unidad 4": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "RiInfinityLine"
-  },
-  "Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md": "RiInfinityLine",
-  "Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
-  "Calculo_II/Unidad 4/4.2 Integrales impropias.md": "RiInfinityLine",
-  "Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying",
   "Calculo_II/Anexos/Pasted image 20240206220920.png": {
     "iconName": null,
     "inheritanceIcon": "FasPencil"
   },
-  "Calculo_II/Anexos/PNG/bombeo.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/bombeo1.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/ejemplo_revolucion.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/longitud.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Recta_num.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Recta_num2.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Recta_num3.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Restricciones.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Secciones_transversales.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Solido_de_revolucion.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Solidos_anulares.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/Sumas.png": "FasPencil",
-  "Calculo_II/Anexos/PNG": {
-    "iconName": "FasPencil",
+  "Ciclo_04/Bases_de_Datos": {
+    "iconName": "FasDatabase",
+    "inheritanceIcon": "RiDatabase2Fill"
+  },
+  "Interciclo_23/Calculo_II": "FasFolderOpen",
+  "Interciclo_23/Calculo_II/Anexos": {
+    "iconName": "FasFolderTree",
     "inheritanceIcon": "FasPencil"
   },
-  "Calculo_II/Anexos/Archivos.canvas": "FasPencil",
-  "Calculo_II/Anexos/PNG/Placas.png": "FasPencil",
-  "Calculo_II/Anexos/PNG/placa1.png": "FasPencil",
-  "Calculo_II/Unidad 5": {
+  "Interciclo_23/Calculo_II/Unidad 1": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Unidad 2": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Unidad 4": {
+    "iconName": "FasFolderTree",
+    "inheritanceIcon": "RiInfinityLine"
+  },
+  "Interciclo_23/Calculo_II/Unidad 3": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Unidad 5": {
     "iconName": "FasFolderTree",
     "inheritanceIcon": "FasArrowRightLong"
   },
-  "Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md": "FasArrowRightLong",
-  "Calculo_II/Unidad 6": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "FabBattleNet"
+  "Interciclo_23/Calculo_II/Anexos/Archivos.canvas": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG": {
+    "iconName": "FasPencil",
+    "inheritanceIcon": "FasPencil"
   },
-  "Calculo_II/Anexos/PNG/Cálculo II": "FasCalculator"
+  "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
+  "Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md": "FasCalculator",
+  "Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md": "FasCalculator",
+  "Interciclo_23/Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md": "FasCalculator",
+  "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md": "FasCalculator",
+  "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md": "RiInfinityLine",
+  "Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md": "RiFunctions",
+  "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md": "RiInfinityLine",
+  "Interciclo_23/Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md": "FasCalculator",
+  "Interciclo_23/Calculo_II/Unidad 3/3 Técnicas de Integración.md": "FasMasksTheater",
+  "Interciclo_23/Calculo_II/Unidad 4/4.2 Integrales impropias.md": "RiInfinityLine",
+  "Interciclo_23/Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md": "FasArrowRightLong",
+  "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md": "FasSpaghettiMonsterFlying",
+  "Interciclo_23/Calculo_II/Anexos/PNG/bombeo.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/bombeo1.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Placas.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/ejemplo_revolucion.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Recta_num.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Recta_num2.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/longitud.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Recta_num3.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/placa1.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Solidos_anulares.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Sumas.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Restricciones.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Secciones_transversales.png": "FasPencil",
+  "Interciclo_23/Calculo_II/Anexos/PNG/Solido_de_revolucion.png": "FasPencil",
+  "Ciclo_04/POO": "FasBarsProgress",
+  "Ciclo_04": "Fas4",
+  "Interciclo_23": "FasI"
 }
