@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
+      "FasAtom",
+      "FabCentos",
       "FasI",
-      "Fas4",
-      "FasBarsProgress",
-      "FasDatabase",
-      "FasFolderTree"
+      "Fas4"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,5 +102,8 @@
   "Interciclo_23/Calculo_II/Anexos/PNG/Solido_de_revolucion.png": "FasPencil",
   "Ciclo_04/POO": "FasBarsProgress",
   "Ciclo_04": "Fas4",
-  "Interciclo_23": "FasI"
+  "Interciclo_23": "FasI",
+  "Ciclo_04/Fisica": "FasAtom",
+  "Interciclo_23/Calculo_II/Unidad 6": "FasFolderTree",
+  "Ciclo_04/Fisica/Cinemática": "FasFolderTree"
 }

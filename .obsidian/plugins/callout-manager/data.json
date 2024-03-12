@@ -1,0 +1,23 @@
+{
+  "callouts": {
+    "custom": [
+      "sex_induction"
+    ],
+    "settings": {
+      "sex_induction": [
+        {
+          "changes": {
+            "icon": "lucide-eye",
+            "color": "211, 34, 34"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

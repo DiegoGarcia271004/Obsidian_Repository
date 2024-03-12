@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d9b7f8db3796da5",
+            "id": "3001b143b8708fb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Generalidades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7014a675af142e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -82,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c4245d20e68d0b81",
@@ -98,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
+                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md",
+                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_04/POO/Programación Orientada a Objetos.md"
+                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md"
               }
             }
           },
@@ -168,10 +154,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7014a675af142e1a",
+  "active": "3001b143b8708fb7",
   "lastOpenFiles": [
+    "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
+    "Ciclo_04/Fisica/Cinemática/1.1 Partícula, sistemas de referencia y desplazamiento.md",
+    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
+    "Ciclo_04/Bases_de_Datos/Untitled Diagram.svg",
     "Ciclo_04/Bases_de_Datos/Generalidades.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
+    "Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Ciclo_04/POO/Programación Orientada a Objetos.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
+    "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+    "Ciclo_04/Fisica/Cinemática",
+    "Ciclo_04/Fisica/Sin título.md",
+    "Ciclo_04/Fisica",
+    "Ciclo_04/Sin título.md",
     "Ciclo_04/POO",
     "Ciclo_04",
     "Interciclo_23",
@@ -182,7 +185,6 @@
     "Interciclo_23/Calculo_II/Unidad 6/6.2 Funciones polares.md",
     "Interciclo_23/Calculo_II/Unidad 6/6.1 Sistemas de coordenadas polares.md",
     "Interciclo_23/Calculo_II/Unidad 6",
-    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216134333_784.png",
@@ -192,31 +194,14 @@
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215203518_132.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214223713_610.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214212820_251.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240210002701_142.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II",
-    "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
-    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Interciclo_23/Calculo_II/Unidad 5/5.1 Parametrización de curvas en el plano y el espacio.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.2 Integrales impropias.md",
     "Interciclo_23/Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.4 Integración por fracciones parciales.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
-    "Calculo_II/Unidad 5/Funciones vectoriales.md",
     "Interciclo_23/Excalidraw",
     "Cálculo II",
-    "Interciclo_23/Calculo_II/Unidad 5",
-    "Interciclo_23/Calculo_II/Unidad 3/3 Técnicas de Integración.md",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
-    "Interciclo_23/Calculo_II/Anexos/PNG",
-    "Prueba LaTex.md",
-    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Calculo_II/Anexos/Sin título.md",
-    "Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
-    "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
   ]
