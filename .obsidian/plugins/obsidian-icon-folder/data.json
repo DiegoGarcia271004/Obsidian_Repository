@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabConnectdevelop",
       "FasFolderTree",
       "FasAtom",
       "FabCentos",
-      "FasI",
-      "Fas4"
+      "FasI"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -105,5 +105,6 @@
   "Interciclo_23": "FasI",
   "Ciclo_04/Fisica": "FasAtom",
   "Interciclo_23/Calculo_II/Unidad 6": "FasFolderTree",
-  "Ciclo_04/Fisica/Cinemática": "FasFolderTree"
+  "Ciclo_04/Fisica/Cinemática": "FasFolderTree",
+  "Ciclo_04/POO/Programación Orientada a Objetos.md": "FabConnectdevelop"
 }

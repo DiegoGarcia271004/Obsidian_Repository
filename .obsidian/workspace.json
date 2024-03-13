@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "00fb63620a330101",
+        "id": "42e920415f640a46",
         "type": "tabs",
         "children": [
           {
-            "id": "3001b143b8708fb7",
+            "id": "827b12e8b1d192e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md"
+                "file": "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c4245d20e68d0b81",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
+                "file": "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
+                "file": "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md"
+                "file": "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md"
               }
             }
           },
@@ -154,20 +155,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3001b143b8708fb7",
+  "active": "827b12e8b1d192e5",
   "lastOpenFiles": [
-    "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
     "Ciclo_04/Fisica/Cinemática/1.1 Partícula, sistemas de referencia y desplazamiento.md",
-    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
-    "Ciclo_04/Bases_de_Datos/Untitled Diagram.svg",
+    "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
+    "Ciclo_04/POO/Programación Orientada a Objetos.md",
     "Ciclo_04/Bases_de_Datos/Generalidades.md",
+    "Sin título.canvas",
+    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
+    "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
+    "Ciclo_04/Bases_de_Datos/Untitled Diagram.svg",
     "Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
     "Interciclo_23/Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
     "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
     "Interciclo_23/Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
     "Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
     "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Ciclo_04/POO/Programación Orientada a Objetos.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
     "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",

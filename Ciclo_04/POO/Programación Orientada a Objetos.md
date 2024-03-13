@@ -25,7 +25,10 @@ Algunas características del paradigma orientado a objetos:
 
 #### Ahora sí, ¿Qué es un objeto?
 
+Es una entidad que encapsula tanto **datos** como **comportamientos**.
 Un objeto es una forma de representar cosas o conceptos dentro del contexto de un programa, el cuál posee características (atributos), y acciones (métodos).
+
+Los objetos son los cimientos de un programa orientado a objetos. Un programa que está basado en este paradigma básicamente es una colección de objetos.
 
 Dentro del mundo de los objetos (en programación), posee grandes ventajas en cuanto a privacidad se refiere con grandes características las cuales se mencionaran a continuación:
 
@@ -33,3 +36,8 @@ Dentro del mundo de los objetos (en programación), posee grandes ventajas en cu
 2. La consecuencia de brindar mayor seguridad a dicha información.
 3. La acción de solo poder conocer esos datos a través de los métodos se le llama **encapsulamiento**.
 
+
+## Clases y objetos
+
+Ya que durante el proceso de programación los objetos se utilizan en varios momentos, estos tienden a repetir mucho código, en el caso de que existan varios objetos con características o comportamientos, es recomendable que existan unas **plantillas**.
+La **clases** son las plantillas de nuestros objetos, mientras que los objetos serán las **instancias** de clases.
