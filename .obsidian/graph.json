@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#Física",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
     {
       "query": "tag:#Vectores  ",
       "color": {
@@ -27,18 +34,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Programacion",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.18463541666667,
+  "lineSizeMultiplier": 5,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.645833333333333,
+  "repelStrength": 9.84375,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 162,
   "scale": 1.6097698822158844,
-  "close": true
+  "close": false
 }

@@ -41,3 +41,12 @@ Dentro del mundo de los objetos (en programación), posee grandes ventajas en cu
 
 Ya que durante el proceso de programación los objetos se utilizan en varios momentos, estos tienden a repetir mucho código, en el caso de que existan varios objetos con características o comportamientos, es recomendable que existan unas **plantillas**.
 La **clases** son las plantillas de nuestros objetos, mientras que los objetos serán las **instancias** de clases.
+
+## Métodos Setters y Getters
+
+En programación orientada a objetos, los objetos son como capsulas, los cuales mantienen seguras ya sean atributos o métodos del objeto, debido a esto, es que necesitamos una forma de, que en caso de necesitarlo, extraer o alterar los datos de un objeto manteniendo la privacidad del objeto, sin comprometer la información almacenada en el.
+
+Los setters son los métodos que permiten definir o reescribir un atributo que posee el objeto. Los cuales por la convención UML (Unified Modelliny Language), se escribe la palabra **set** concatenado al nombre del atributo que se esta haciendo referencia. Es importante mencionar que debido a que estos simplemente alteran el dato de un atributo, estos no devuelven ningún dato, siendo así que el dato de estos métodos serán **void**.
+
+Los getters son los métodos que permite **obtener** la información resguardada en un objeto, su forma de escribirse es escribir la palabra **get** concatenado al nombre del atributo que se estará haciendo referencia, debido a que estamos pidiendo un dato, éstos métodos si tendrán un tipo de dato, el cuál dependerá del tipo de dato del atributo que se busca pedir.
+
