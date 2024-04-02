@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "827b12e8b1d192e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e1769cc93ef6157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616a6a49fdf247bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f2c4c3c47a23156f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md"
+                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md",
+                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md",
+                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md"
+                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md"
               }
             }
           },
@@ -192,8 +157,13 @@
   },
   "active": "f2c4c3c47a23156f",
   "lastOpenFiles": [
-    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Ciclo_04/Calculo_III/Unidad 1/Sucesiones Infinitas.md",
+    "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
     "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md",
+    "Ciclo_04/Calculo_III/Unidad 1",
+    "Ciclo_04/Calculo_III/Sin título.md",
+    "Ciclo_04/Calculo_III",
+    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
     "Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
     "Ciclo_04/Bases_de_Datos/Drawing 2024-03-18 11.30.53.excalidraw.md",
     "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
@@ -223,9 +193,6 @@
     "Interciclo_23/Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
     "Ciclo_04/Bases_de_Datos",
     "Interciclo_23/Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
-    "Interciclo_23/Calculo_II/Unidad 6/6.3 Coordenadas cilíndricas y esféricas.md",
-    "Interciclo_23/Calculo_II/Unidad 6/6.2 Funciones polares.md",
-    "Interciclo_23/Calculo_II/Unidad 6/6.1 Sistemas de coordenadas polares.md",
     "Interciclo_23/Calculo_II/Unidad 6",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
@@ -237,8 +204,6 @@
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214223713_610.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214212820_251.png",
     "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II",
-    "Interciclo_23/Excalidraw",
-    "Cálculo II",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"

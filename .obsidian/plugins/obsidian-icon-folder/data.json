@@ -1,19 +1,69 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSigma",
+      "RiBracesFill",
+      "FasSquareRootVariable",
       "FabConnectdevelop",
-      "FasFolderTree",
-      "FasAtom",
-      "FabCentos",
-      "FasI"
+      "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "FasPencil",
+        "rule": "Interciclo_23/Calculo_II/Anexos/PNG\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "FasArrowRightLong",
+        "rule": "Interciclo_23/Calculo_II/Unidad 5\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "RiInfinityLine",
+        "rule": "Interciclo_23/Calculo_II/Unidad 4\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "icon": "FasPencil",
+        "rule": "Interciclo_23/Calculo_II/Anexos\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "icon": "RiDatabase2Fill",
+        "rule": "Ciclo_04/Bases_de_Datos\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 4,
+        "useFilePath": true
+      },
+      {
+        "icon": "FasPencil",
+        "rule": "Calculo_II/Anexos/Pasted image 20240206220920.png\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 5,
+        "useFilePath": true
+      },
+      {
+        "icon": "RiFunctions",
+        "rule": "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 6,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -24,7 +74,9 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
   },
   "Cálculo II/Unidad 1": "FasFolderTree",
   "Cálculo II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
@@ -35,39 +87,11 @@
   "Cálculo II/Unidad 2/Funciones logarítmicas y exponenciales con otras bases.md": "FabWpexplorer",
   "Cálculo II/Unidad 2/Cálculo aplicado a la función logaritmo natural.md": "FabWpexplorer",
   "Cálculo II": "FasCalculator",
-  "Calculo_II/Unidad 1/1.1.1 Ejercicios sumas de Riemann e integrales definidas.md": {
-    "iconName": null,
-    "inheritanceIcon": "RiFunctions"
-  },
-  "Calculo_II/Anexos/Pasted image 20240206220920.png": {
-    "iconName": null,
-    "inheritanceIcon": "FasPencil"
-  },
-  "Ciclo_04/Bases_de_Datos": {
-    "iconName": "FasDatabase",
-    "inheritanceIcon": "RiDatabase2Fill"
-  },
   "Interciclo_23/Calculo_II": "FasFolderOpen",
-  "Interciclo_23/Calculo_II/Anexos": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "FasPencil"
-  },
   "Interciclo_23/Calculo_II/Unidad 1": "FasFolderTree",
   "Interciclo_23/Calculo_II/Unidad 2": "FasFolderTree",
-  "Interciclo_23/Calculo_II/Unidad 4": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "RiInfinityLine"
-  },
   "Interciclo_23/Calculo_II/Unidad 3": "FasFolderTree",
-  "Interciclo_23/Calculo_II/Unidad 5": {
-    "iconName": "FasFolderTree",
-    "inheritanceIcon": "FasArrowRightLong"
-  },
   "Interciclo_23/Calculo_II/Anexos/Archivos.canvas": "FasPencil",
-  "Interciclo_23/Calculo_II/Anexos/PNG": {
-    "iconName": "FasPencil",
-    "inheritanceIcon": "FasPencil"
-  },
   "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md": "RiFunctions",
   "Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md": "FasCalculator",
   "Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md": "FasCalculator",
@@ -106,5 +130,14 @@
   "Ciclo_04/Fisica": "FasAtom",
   "Interciclo_23/Calculo_II/Unidad 6": "FasFolderTree",
   "Ciclo_04/Fisica/Cinemática": "FasFolderTree",
-  "Ciclo_04/POO/Programación Orientada a Objetos.md": "FabConnectdevelop"
+  "Ciclo_04/POO/Programación Orientada a Objetos.md": "FabConnectdevelop",
+  "Ciclo_04/Calculo_III": "FasSquareRootVariable",
+  "Ciclo_04/Calculo_III/Unidad 1": "FasFolderTree",
+  "Ciclo_04/Calculo_III/Unidad 1/Sucesiones Infinitas.md": "RiBracesFill",
+  "Ciclo_04/Bases_de_Datos": "FasDatabase",
+  "Interciclo_23/Calculo_II/Anexos": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Unidad 4": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Unidad 5": "FasFolderTree",
+  "Interciclo_23/Calculo_II/Anexos/PNG": "FasPencil",
+  "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md": "LiSigma"
 }
