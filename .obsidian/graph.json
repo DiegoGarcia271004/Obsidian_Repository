@@ -5,38 +5,38 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Física",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#Vectores  ",
-      "color": {
-        "a": 1,
-        "rgb": 1061861
-      }
-    },
-    {
-      "query": "tag:#Integrales  ",
+      "query": "tag:#Calculo2  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#Funciones  ",
+      "query": "tag:#Programacion  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 528068
       }
     },
     {
-      "query": "tag:#Programacion",
+      "query": "tag:#Calculo3  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Física  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -46,13 +46,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.18463541666667,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.645833333333333,
-  "repelStrength": 9.84375,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 162,
-  "scale": 1.6097698822158844,
+  "linkDistance": 250,
+  "scale": 0.8189895606248545,
   "close": false
 }
