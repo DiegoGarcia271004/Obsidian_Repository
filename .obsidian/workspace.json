@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2c4c3c47a23156f",
+            "id": "2ffcaf611479bf09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
+                "file": "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,10 +36,8 @@
             "id": "dfbc798b5b1433d6",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -64,12 +62,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "1d8b91094307b036",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
     "id": "c4245d20e68d0b81",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
+                "file": "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
+                "file": "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md"
+                "file": "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md"
               }
             }
           },
@@ -155,55 +164,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2c4c3c47a23156f",
+  "active": "2ffcaf611479bf09",
   "lastOpenFiles": [
-    "Ciclo_04/Calculo_III/Unidad 1/Sucesiones Infinitas.md",
-    "Ciclo_04/Calculo_III/Unidad 1/Series infinitas.md",
-    "2024-03-14.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3 Técnicas de Integración.md",
-    "Sin título.md",
-    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-20 11.27.53.excalidraw.md",
-    "Ciclo_04/Calculo_III/Unidad 1",
-    "Ciclo_04/Calculo_III/Sin título.md",
-    "Ciclo_04/Calculo_III",
-    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
-    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-18 11.30.53.excalidraw.md",
-    "Ciclo_04/Bases_de_Datos/Modelo entidad-relación.md",
-    "Ciclo_04/POO/Programación Orientada a Objetos.md",
-    "Ciclo_04/Bases_de_Datos/Drawing 2024-03-11 11.22.52.excalidraw.md",
-    "Ciclo_04/Bases_de_Datos/Untitled Diagram.svg",
-    "Ciclo_04/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
-    "Ciclo_04/Fisica/Cinemática/1.1 Partícula, sistemas de referencia y desplazamiento.md",
-    "Ciclo_04/Bases_de_Datos/Generalidades.md",
+    "Ciclo_03/Bases_de_Datos/Modelo relacional/Normalización.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-20 11.27.53.excalidraw.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-18 11.30.53.excalidraw.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-11 11.22.52.excalidraw.md",
+    "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
+    "Cálculo II/Pasted Image 20240415191220_128.png",
+    "Cálculo II/Pasted Image 20240415191148_700.png",
+    "Cálculo II/Pasted Image 20240415191148_671.png",
+    "Cálculo II/Pasted Image 20240415191132_638.png",
+    "Cálculo II",
+    "Cálculo II/Pasted Image 20240415191033_428.png",
+    "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
+    "Ciclo_03/Fisica/Anexos",
+    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
+    "Ciclo_03/Calculo_III/2. Series infinitas.md",
+    "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
+    "Ciclo_03/Bases_de_Datos/Generalidades.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
+    "Excalidraw/Drawing 2024-04-09 22.10.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-09 22.09.18.excalidraw.md",
     "Sin título.canvas",
-    "Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
-    "Interciclo_23/Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
-    "Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
-    "Interciclo_23/Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
-    "Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+    "Ciclo_03/Bases_de_Datos/Modelo entidad-relación/Modelo entidad-relación.md",
+    "Ciclo_03/POO/Programación Orientada a Objetos.md",
+    "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
+    "Ciclo_03/Calculo_III/Anexos",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410222129_669.png",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410221742_851.png",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410215102_388.png",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410205204_375.png",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II",
+    "Interciclo_23/Excalidraw/Sin título.md",
+    "Ciclo_03/Bases_de_Datos/Modelo relacional",
+    "Ciclo_03/Bases_de_Datos/Anexos/3FN.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/1FN.md",
+    "Excalidraw",
+    "Ciclo_03/Bases_de_Datos/Anexos",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
-    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
-    "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
-    "Ciclo_04/Fisica/Cinemática",
-    "Ciclo_04/Fisica/Sin título.md",
-    "Ciclo_04/Fisica",
-    "Ciclo_04/Sin título.md",
-    "Ciclo_04/POO",
-    "Ciclo_04",
-    "Interciclo_23",
-    "Ciclo_04/Bases_de_Datos",
-    "Interciclo_23/Calculo_II/Unidad 6",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Polares.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216165624_119.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240216134333_784.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214220530_070.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240209223038_074.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215212554_063.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240215203518_132.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214223713_610.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Pasted Image 20240214212820_251.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II",
+    "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.6 Sustituciones especiales Parte 2.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.5 Sustituciones especiales Parte 1.md",
+    "Ciclo_03/Calculo_III/Unidad 1",
+    "Ciclo_03/Calculo_III",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
