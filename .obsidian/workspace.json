@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+                "file": "Ciclo_03/POO/Programación Orientada a Objetos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "867f8bd528efb827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo_03/POO/Programación Orientada a Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+                "file": "Ciclo_03/POO/Programación Orientada a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+                "file": "Ciclo_03/POO/Programación Orientada a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md"
+                "file": "Ciclo_03/POO/Programación Orientada a Objetos.md"
               }
             }
           },
@@ -175,11 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf469007e864a9fd",
+  "active": "867f8bd528efb827",
   "lastOpenFiles": [
+    "Ciclo_03/POO/Anexos/Linea de tiempo.md",
+    "Ciclo_03/POO/Programación Orientada a Objetos.md",
+    "Ciclo_03/POO/Anexos",
+    "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
     "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
     "Ciclo_03/Fisica/Anexos/Repaso corto.md",
-    "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional/Normalización.md",
     "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
@@ -205,7 +220,6 @@
     "Excalidraw/Drawing 2024-04-09 22.09.18.excalidraw.md",
     "Sin título.canvas",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación/Modelo entidad-relación.md",
-    "Ciclo_03/POO/Programación Orientada a Objetos.md",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
     "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410222129_669.png",
@@ -221,9 +235,7 @@
     "Ciclo_03/Bases_de_Datos/Anexos",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
     "Ciclo_03/Calculo_III/Unidad 1",
-    "Ciclo_03/Calculo_III",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"

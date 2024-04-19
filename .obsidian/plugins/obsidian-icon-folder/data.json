@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiPencilFill",
       "TiBrandCss3",
       "TiAngle",
       "TiMathFunction",
-      "TiMathIntegrals",
-      "TiMathIntegral"
+      "TiMathIntegrals"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -147,5 +147,6 @@
   "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md": "IbTarget",
   "Ciclo_03/Bases_de_Datos/Modelo entidad-relación": "SiBasicattentiontoken",
   "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md": "RiBracesFill",
-  "Ciclo_03/Calculo_III/2. Series infinitas.md": "LiSigma"
+  "Ciclo_03/Calculo_III/2. Series infinitas.md": "LiSigma",
+  "Ciclo_03/POO/Anexos": "RiPencilFill"
 }
