@@ -21,11 +21,9 @@
             "id": "bf469007e864a9fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
               }
             }
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md"
+                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
               }
             }
           },
@@ -177,19 +175,21 @@
   },
   "active": "bf469007e864a9fd",
   "lastOpenFiles": [
+    "Cálculo II/Pasted Image 20240415191132_638.png",
+    "Cálculo II/Pasted Image 20240415191148_671.png",
+    "Cálculo II/Pasted Image 20240415191148_700.png",
+    "Cálculo II/Pasted Image 20240415191220_128.png",
     "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
-    "Ciclo_03/Fisica/Anexos/Repaso corto.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
+    "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
     "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+    "Ciclo_03/Fisica/Anexos/Repaso corto.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional/Normalización.md",
     "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-20 11.27.53.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-18 11.30.53.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-11 11.22.52.excalidraw.md",
-    "Cálculo II/Pasted Image 20240415191220_128.png",
-    "Cálculo II/Pasted Image 20240415191148_700.png",
-    "Cálculo II/Pasted Image 20240415191148_671.png",
-    "Cálculo II/Pasted Image 20240415191132_638.png",
     "Cálculo II",
     "Cálculo II/Pasted Image 20240415191033_428.png",
     "Ciclo_03/Fisica/Anexos",
@@ -219,9 +219,6 @@
     "Ciclo_03/Bases_de_Datos/Anexos/1FN.md",
     "Excalidraw",
     "Ciclo_03/Bases_de_Datos/Anexos",
-    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
-    "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
     "Ciclo_03/Calculo_III/Unidad 1",
     "Ciclo_03/Calculo_III",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
