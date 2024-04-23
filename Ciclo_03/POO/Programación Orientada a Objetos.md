@@ -2,6 +2,22 @@
 tags:
   - "#Programacion"
 ---
+## Historia de la programación orientada a objetos (Yes, history)
+
+Primeramente, durante 1960 es cuando se empezaron a utilizar términos como objetos en relación a la inteligencia artificial. Así mismo en 1960-1961 el MIT desarrolló Sketchpad, el cuál es un programa utilizado para manipular objetos gráficos, en cuyos informes se presentan conceptos como objetos e instancias.
+
+En 1962 se desarrolla el lenguaje **Simula**, siendo este, el primer lenguaje orientado a objetos el cuál implemento el concepto de clases, objetos y herencia.
+
+En 1983 se desarrolla el lenguaje de programación C++, el cuál de por sí no es completamente orientado a objetos, sino que es un lenguaje multiparadigma, que implementa las clases y objetos.
+
+Ya en 1995 se publica Java, siendo este un lenguaje derivado de C, siendo este un lenguaje nativamente orientado a objetos. Java es uno de los lenguajes más utilizados y populares en la actualidad.
+
+Ya ubicados en el presente, han surgido varias propuestas de lenguajes orientados a objetos como podrían ser: C#, Python, Ruby, Visual Basic.NET, Kotlin y Swift.
+
+### Línea de tiempo
+
+![[Linea de tiempo|center|1000]]
+
 #### ¿Qué es un objeto?
 
 En resumidas cuentas aquello que posea características y pueda realizar acciones (o diversas cosas) es considerado un objeto.
