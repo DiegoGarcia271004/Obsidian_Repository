@@ -84,31 +84,36 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "kvs5T3KGUN3X07a6z-6lh",
             "type": "arrow",
-            "x": 64.40455589145131,
-            "y": 2100.343729216931,
-            "width": 66,
-            "height": 74,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
+            "version": 53,
+            "versionNonce": 1240786442,
+            "isDeleted": false,
+            "id": "kvs5T3KGUN3X07a6z-6lh",
             "fillStyle": "solid",
             "strokeWidth": 0.5,
             "strokeStyle": "solid",
             "roughness": 0,
             "opacity": 100,
+            "angle": 0,
+            "x": 64.40455589145131,
+            "y": 2100.343729216931,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 66,
+            "height": 74,
+            "seed": 1729104906,
             "groupIds": [],
             "frameId": null,
             "roundness": null,
-            "seed": 1729104906,
-            "version": 53,
-            "versionNonce": 1240786442,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1713846932010,
             "link": null,
             "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
             "points": [
               [
                 0,
@@ -118,12 +123,7 @@
                 66,
                 74
               ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow"
+            ]
           }
         ],
         "created": 1713846933172
