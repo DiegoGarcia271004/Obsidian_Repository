@@ -26,9 +26,19 @@
                 "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
               }
             }
+          },
+          {
+            "id": "56ae7650dfdb78e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
+                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
+                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
+                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md"
               }
             }
           },
@@ -173,15 +183,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf469007e864a9fd",
+  "active": "56ae7650dfdb78e6",
   "lastOpenFiles": [
+    "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
+    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425165222_137.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425163931_462.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425161833_421.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425161132_385.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425160418_628.png",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Anexos",
-    "Cálculo II/Pasted Image 20240415191132_638.png",
-    "Cálculo II/Pasted Image 20240415191148_671.png",
-    "Cálculo II/Pasted Image 20240415191148_700.png",
-    "Cálculo II/Pasted Image 20240415191220_128.png",
-    "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191132_638.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
     "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
     "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
     "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
@@ -192,13 +208,12 @@
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-20 11.27.53.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-18 11.30.53.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-11 11.22.52.excalidraw.md",
-    "Cálculo II",
+    "Ciclo_03/Fisica/Anexos/Cálculo II",
     "Cálculo II/Pasted Image 20240415191033_428.png",
     "Ciclo_03/Fisica/Anexos",
     "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
     "Ciclo_03/Calculo_III/2. Series infinitas.md",
     "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
     "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Generalidades.md",
@@ -210,15 +225,10 @@
     "Ciclo_03/POO/Programación Orientada a Objetos.md",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410222129_669.png",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410221742_851.png",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410215102_388.png",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410205204_375.png",
     "Interciclo_23/Calculo_II/Anexos/Cálculo II",
     "Interciclo_23/Excalidraw/Sin título.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional",
     "Ciclo_03/Bases_de_Datos/Anexos/3FN.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/1FN.md",
     "Excalidraw",
     "Ciclo_03/Bases_de_Datos/Anexos",
     "Ciclo_03/Calculo_III/Unidad 1",

@@ -80,55 +80,6 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
     "libraryItems": [
       {
-        "id": "iP1ZvFVQaov18sQ9Fq5xf",
-        "status": "unpublished",
-        "elements": [
-          {
-            "id": "kvs5T3KGUN3X07a6z-6lh",
-            "type": "arrow",
-            "x": 64.40455589145131,
-            "y": 2100.343729216931,
-            "width": 66,
-            "height": 74,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
-            "fillStyle": "solid",
-            "strokeWidth": 0.5,
-            "strokeStyle": "solid",
-            "roughness": 0,
-            "opacity": 100,
-            "groupIds": [],
-            "frameId": null,
-            "roundness": null,
-            "seed": 1729104906,
-            "version": 53,
-            "versionNonce": 1240786442,
-            "isDeleted": false,
-            "boundElements": null,
-            "updated": 1713846932010,
-            "link": null,
-            "locked": false,
-            "points": [
-              [
-                0,
-                0
-              ],
-              [
-                66,
-                74
-              ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow"
-          }
-        ],
-        "created": 1713846933172
-      },
-      {
         "status": "unpublished",
         "elements": [
           {
