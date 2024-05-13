@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbCar",
+      "FiSettings",
       "RiPencilFill",
       "TiBrandCss3",
-      "TiAngle",
-      "TiMathFunction",
-      "TiMathIntegrals"
+      "TiAngle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -148,5 +148,7 @@
   "Ciclo_03/Bases_de_Datos/Modelo entidad-relación": "SiBasicattentiontoken",
   "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md": "RiBracesFill",
   "Ciclo_03/Calculo_III/2. Series infinitas.md": "LiSigma",
-  "Ciclo_03/POO/Anexos": "RiPencilFill"
+  "Ciclo_03/POO/Anexos": "RiPencilFill",
+  "Ciclo_03/Fisica/Mecánica": "FiSettings",
+  "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md": "IbCar"
 }

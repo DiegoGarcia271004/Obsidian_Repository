@@ -6,39 +6,88 @@
       {
         "id": "42e920415f640a46",
         "type": "tabs",
+        "dimension": 81.19195046439629,
         "children": [
           {
             "id": "2ffcaf611479bf09",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
+                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                "mode": "source",
+                "source": false
               }
-            }
+            },
+            "group": "93a1279d88ceb268"
+          }
+        ]
+      },
+      {
+        "id": "b9d6f45e24f9fe9c",
+        "type": "split",
+        "dimension": 18.808049535603715,
+        "children": [
+          {
+            "id": "13c09f4135fb3117",
+            "type": "tabs",
+            "dimension": 48.00420168067227,
+            "children": [
+              {
+                "id": "129a63a87c7159e4",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "93a1279d88ceb268"
+              }
+            ]
           },
           {
-            "id": "bf469007e864a9fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md"
+            "id": "0101e01a3870fbf3",
+            "type": "tabs",
+            "dimension": 51.99579831932773,
+            "children": [
+              {
+                "id": "65beaa1948c765f9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "56ae7650dfdb78e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md"
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -50,15 +99,8 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
+        "dimension": 75.10504201680672,
         "children": [
-          {
-            "id": "dfbc798b5b1433d6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "8818c16c4f22c359",
             "type": "leaf",
@@ -93,7 +135,22 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "9ae9f8dd06b2ccf5",
+        "type": "tabs",
+        "dimension": 24.89495798319328,
+        "children": [
+          {
+            "id": "dfbc798b5b1433d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md"
+                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md"
               }
             }
           },
@@ -183,21 +240,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56ae7650dfdb78e6",
+  "active": "dfbc798b5b1433d6",
   "lastOpenFiles": [
+    "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191132_638.png",
+    "Ciclo_03/POO/Fabricas de objetos.md",
+    "Ciclo_03/Fisica/Mecánica",
+    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
+    "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
+    "Ciclo_03/Calculo_III/2. Series infinitas.md",
     "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
-    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425165222_137.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425163931_462.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425161833_421.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425161132_385.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240425160418_628.png",
+    "Ciclo_03/POO/ROCIO ES LA MEJOR.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Anexos",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191132_638.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
     "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
     "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
     "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
@@ -211,9 +269,7 @@
     "Ciclo_03/Fisica/Anexos/Cálculo II",
     "Cálculo II/Pasted Image 20240415191033_428.png",
     "Ciclo_03/Fisica/Anexos",
-    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
-    "Ciclo_03/Calculo_III/2. Series infinitas.md",
-    "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
     "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Generalidades.md",
@@ -222,16 +278,12 @@
     "Excalidraw/Drawing 2024-04-09 22.09.18.excalidraw.md",
     "Sin título.canvas",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación/Modelo entidad-relación.md",
-    "Ciclo_03/POO/Programación Orientada a Objetos.md",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
     "Interciclo_23/Calculo_II/Anexos/Cálculo II",
-    "Interciclo_23/Excalidraw/Sin título.md",
     "Ciclo_03/Bases_de_Datos/Modelo relacional",
-    "Ciclo_03/Bases_de_Datos/Anexos/3FN.md",
     "Excalidraw",
     "Ciclo_03/Bases_de_Datos/Anexos",
-    "Ciclo_03/Calculo_III/Unidad 1",
     "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
