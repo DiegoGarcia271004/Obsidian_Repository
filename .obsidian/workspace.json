@@ -62,8 +62,8 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
-                      "close": false
+                      "scale": 0.7132754626224422,
+                      "close": true
                     }
                   }
                 },
@@ -81,7 +81,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md"
+                  }
                 }
               }
             ]
@@ -240,9 +242,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfbc798b5b1433d6",
+  "active": "2ffcaf611479bf09",
   "lastOpenFiles": [
+    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.1 Formas indeterminadas y regla de Bernoulli-L'Hôpital.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.2 Integrales impropias.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
@@ -274,10 +280,7 @@
     "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Generalidades.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
-    "Excalidraw/Drawing 2024-04-09 22.10.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-09 22.09.18.excalidraw.md",
     "Sin título.canvas",
-    "Ciclo_03/Bases_de_Datos/Modelo entidad-relación/Modelo entidad-relación.md",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
     "Interciclo_23/Calculo_II/Anexos/Cálculo II",
