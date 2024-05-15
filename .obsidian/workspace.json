@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Potencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                    "file": "Ciclo_03/Fisica/Mecánica/Potencia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -81,7 +81,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Ciclo_03/Fisica/Mecánica/Potencia.md"
+                  }
                 }
               }
             ]
@@ -130,7 +132,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -170,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md"
+                "file": "Ciclo_03/Fisica/Mecánica/Potencia.md"
               }
             }
           },
@@ -240,9 +242,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfbc798b5b1433d6",
+  "active": "2ffcaf611479bf09",
   "lastOpenFiles": [
+    "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+    "Ciclo_03/POO/ROCIO ES LA MEJOR.md",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
     "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
@@ -253,7 +257,6 @@
     "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
     "Ciclo_03/Calculo_III/2. Series infinitas.md",
     "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
-    "Ciclo_03/POO/ROCIO ES LA MEJOR.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Anexos",
     "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
