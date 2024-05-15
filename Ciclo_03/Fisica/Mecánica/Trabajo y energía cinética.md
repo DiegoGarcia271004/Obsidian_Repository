@@ -85,7 +85,7 @@ Fs&=\frac{1}{2}v_{2}^{2}m-\frac{1}{2}v_{1}^{2}m\\
 $$
 El producto $Fs$ es lo que nosotros ya conocemos como trabajo, y debido a que el trabajo es la variación de la energía cinética y tenemos una variación dentro de la fórmula podemos concluir que la energía cinética de la partícula está dada por:
 $$
-E_{c}=K=\frac{1}{2}vm
+E_{c}=K=\frac{1}{2}v^{2}m
 $$
 Y por ende:
 $$
@@ -96,3 +96,51 @@ Siendo este resultado el **teorema trabajo-energía**.
 > [!warning] Ojo!
 > La energía cinética bajo ningún concepto va a ser negativa, por lo tanto, si al realizar cálculos, ésta resultara negativa, es necesario revisar el procedimiento realizado.
 
+
+### Energía cinética en objetos que parten o terminan en el reposo
+
+Como un caso especial, si se requiere mover un objeto desde el reposo hasta un punto, entonces la energía cinética de este es igual al trabajo realizado para poder mover el objeto hasta esa posición. ya que $K_{1}=0$ entonces:
+$$
+W_{tot}=K_{2}-0=K_{2}
+$$
+Sin embargo, existe otra interpretación para la energía cinética la cual es que: La energía cinética es igual al trabajo total que puede generar una partícula al detenerse. En este caso, se tomaría la energía cinética final como 0 ($K_{2}=0$), entonces:
+$$
+W_{tot}=0-K_{1}=-K_{1}
+$$
+En este caso, el trabajo sería negativo, ya que como vimos antes, la partícula está desacelerando, por ende, está realizando un trabajo negativo.
+
+
+## Trabajo y energía con fuerza variable
+
+Hasta el momento, hemos trabajado la energía cinética y el trabajo con una fuerza constante, sin embargo, en la vida cotidiana en muy raras ocasiones se encuentran fuerzas constantes, por esta misma razón es que es necesario trabajar con fuerzas que varían respecto a la posición de un objeto.
+En forma general, si uno busca encontrar un trabajo a partir de la fuerza se puede encontrar con la siguiente expresión:
+$$
+W=\int _{x_{1}}^{x_{2}} \vec{F}(x) \, dx 
+$$
+Esto se aplica siendo $\vec{F}(x)$ una función de fuerza.
+Este tema puede verse de igual manera en las aplicaciones de la integral en el curso de cálculo II en el tema de [[4.3 Aplicaciones de las integrales definidas#Trabajo mecánico|trabajo mecánico]].
+
+Podemos demostrar la fórmula del trabajo a partir de nuestra nueva forma del trabajo.
+En los casos ya que decíamos que la fuerza era una constante, nos permite sacar la fuerza de la integral quedándonos:
+$$
+W=\int _{x_{1}}^{x_{2}}F \, dx=F\int _{x_{1}}^{x_{2}} \, dx=F(x_{2}-x_{1})  
+$$
+Y ya que conocemos que el desplazamiento es $s=x_{2}-x_{1}$, podemos obtener nuestra fórmula del trabajo con fuerza constante.
+
+### Trabajo al estirar o contraer un resorte
+
+Como se puede comprobar intentando deformar un resorte, conforme se va deformando, cada vez se necesita aplicar una mayor fuerza a este para poder seguir deformándolo, es decir que la fuerza cambia respecto a la elongación del resorte, entonces podemos decir que la función de fuerza para un resorte es:
+$$
+\vec{F}(x)=kx
+$$
+Donde $k$ es una constante conocida como constante de fuerza (o constante de resorte), esta puede variar dependiendo del tipo o material del resorte.
+
+Entonces si intentamos encontrar la fórmula del trabajo para estirar un resorte, aplicamos la integral que planteamos antes y le evaluamos la función de fuerza.
+Suponiendo que se tiene un resorte que se estirará desde su estado inicial (con elongación 0):
+$$
+W=\int _{0}^{X} kx \, dx=k\int _{0}^{X} x \, dx=k\left( \frac{X^{2}}{2} -\frac{0^{2}}{2}\right)=\frac{1}{2}kX^{2}  
+$$
+Sin embargo, si se quiere encontrar el trabajo desde una posición en donde el resorte ya se encuentra estirado:
+$$
+W=\int _{x_{1}}^{x_{2}}kx \, dx=k\int _{x_{1}}^{x_{2}}x \, dx=\frac{1}{2}kx_{2}^{2}-\frac{1}{2}kx_{1}^{2}  
+$$
