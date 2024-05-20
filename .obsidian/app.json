@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Cálculo II"
+  "attachmentFolderPath": "Cálculo II",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
