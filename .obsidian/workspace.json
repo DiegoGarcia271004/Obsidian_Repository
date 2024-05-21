@@ -23,8 +23,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "9df0479e7157301f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "1f3298d7d0819e7a",
@@ -248,13 +261,19 @@
     }
   },
   "active": "e6ae078a3564626d",
+  "active": "9df0479e7157301f",
   "lastOpenFiles": [
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
+    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+    "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
     "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Programación Orientada a Objetos.md",
     "Ciclo_03/POO/Fabricas de objetos.md",
+    "Programa Domingo 18-5-2024.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
     "Ciclo_03/Calculo_III/2. Series infinitas.md",
     "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
     "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
@@ -285,6 +304,10 @@
     "Cálculo II/Pasted Image 20240415191033_428.png",
     "Ciclo_03/Fisica/Anexos",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
+    "Ciclo_03/Bases_de_Datos/Generalidades.md",
+    "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
     "Sin título.canvas",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
