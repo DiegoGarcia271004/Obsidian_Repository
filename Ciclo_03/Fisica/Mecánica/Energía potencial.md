@@ -76,5 +76,3 @@ W_{grav}=-mg(y_{2}-y_{1})=mgy_{1}-mgy_{2}=U_{grav,1}-U_{grav,2}
 $$
 Esto es similar a la ecuación del trabajo gravitacional planteado anteriormente, por lo tanto, se puede concluir que el trabajo realizado por la fuerza gravitacional **depende solamente de la componente vertical del desplazamiento**.
 
-
-

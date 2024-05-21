@@ -23,8 +23,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "9df0479e7157301f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "fd4f04fb2613d6ee",
@@ -247,11 +260,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f357a93989a80dc9",
+  "active": "9df0479e7157301f",
   "lastOpenFiles": [
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
+    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
-    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Programa Domingo 18-5-2024.md",
     "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
     "Ciclo_03/Calculo_III/2. Series infinitas.md",
@@ -284,7 +298,6 @@
     "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
     "Ciclo_03/Bases_de_Datos/Generalidades.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
-    "Excalidraw/Drawing 2024-04-09 22.10.42.excalidraw.md",
     "Sin título.canvas",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
