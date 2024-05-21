@@ -76,5 +76,70 @@ W_{grav}=-mg(y_{2}-y_{1})=mgy_{1}-mgy_{2}=U_{grav,1}-U_{grav,2}
 $$
 Esto es similar a la ecuación del trabajo gravitacional planteado anteriormente, por lo tanto, se puede concluir que el trabajo realizado por la fuerza gravitacional **depende solamente de la componente vertical del desplazamiento**.
 
+## Energía potencial elástica
 
+Usualmente podemos encontrar diversas situaciones en las que encontramos energía potencial y esta no es de naturaleza gravitatoria, así como podría ser una banda elástica, que almacena energía al estar estirada y una vez de relaja, convierte esta energía almacenada en velocidad, es decir energía cinética. Gracias a esto podemos decir que los cuerpos elásticos (es decir que regresan a su forma y posición originales después de ser deformados) poseen una energía potencial dependiendo de que tan estirados se encuentren estos. A su vez, podemos encontrar este tipo de comportamiento en los resortes, que al igual que las bandas elásticas, estos al ser deformados, una vez se deja de ejercer fuerza sobre ellos, estos regresan a su estado original.
+
+Por lo tanto podemos definir una energía potencial propia de estos tipos de objetos, la cual sería la **energía potencial elástica**.
+
+### Energía potencial elástica de un resorte.
+
+Anteriormente en [[Trabajo y energía cinética#Trabajo y energía con fuerza variable#Trabajo al estirar o contraer un resorte|trabajo ejercido sobre un resorte]] pudimos observar que para un resorte ideal, la fuerza necesaria para poder deformarlo esta dada por una función de fuerza $F=kx$ donde $k$ es la constante de fuerza del resorte, y x es la elongación del resorte.
+
+Para poder obtener la energía potencial del resorte, podemos iniciar de la misma manera que con la energía potencial gravitatoria, diferenciándose en que la energía potencial gravitatoria es compartida entre un objeto y la tierra, mientras que la energía potencial elástica será almacenada únicamente en el resorte.
+
+Propongamos un bloque de masa $m$ atado a un resorte con una constante de fuerza $k$ el cual esta sujetado a una pared el cual se puede mover horizontalmente en el eje $x$, si el resorte no esta estirado, inicialmente se encuentra en una posición $x=0$, si movemos el bloque en cualquier sentido, este estaría estirando o comprimiendo el resorte, seguidamente se suelta el bloque. Si desplazamos el bloque de una posición $x_{1}$ a una posición $x_{2}$ entonces estaríamos realizando un trabajo *sobre* el resorte dado por:
+$$
+W=\frac{1}{2}kx_{2}^{2}-\frac{1}{2}kx_{1}^{2}
+$$
+Al soltar el bloque y relajar el resorte, este tiende a regresar a su posición original, por lo tanto el resorte de la misma manera realizaría un trabajo, ya que en este caso parte de la posición final $x_{2}$ al estirarlo, regresaría a su posición inicial $x_{1}$, por lo tanto, si usamos la tercera ley de newton que dice que si ejercemos una fuerza sobre un objeto, este generará una fuerza de misma magnitud pero en sentido contrario, por lo tanto, el trabajo elástico realizado *por* el resorte estaría dado por:
+$$
+W_{el}=\frac{1}{2}kx_{1}^{2}-\frac{1}{2}kx_{2}^{2}
+$$
+Si tenemos que $x_{1} \text{ y } x_{2}$ son positivos con $x_{2}>x_{1}$ entonces el resorte estaría realizando un trabajo negativo sobre el bloque, ya que esta yendo en sentido contrario al desplazamiento del bloque que se mueve en en dirección $+x$, mientras que si $x_{2}<x_{1}$ entonces el resorte estaría realizando un trabajo positivo sobre el bloque.
+Al poder entender esto, podemos expresar el trabajo en términos de una cantidad dada al inicio y al final del desplazamiento, esta sería $\frac{1}{2}kx^{2}$, y esto es lo que podemos definir como **energía potencial elástica**.
+$$
+U_{el} = \frac{1}{2}kx^{2}
+$$
+Podemos tomar la ecuación dada por el trabajo realizado *por* el resorte para poder obtener la energía potencial del resorte:
+$$
+W_{el}=\frac{1}{2}kx_{1}^{2}-\frac{1}{2}kx_{2}^{2}=U_{el,1}-U_{el,2}=-\Delta U_{el}
+$$
+Si un resorte se estira, el trabajo es negativo, y la $U_{el}$ aumenta, así que si el resorte se relaja el resorte realiza trabajo positivo y la $U_{el}$ disminuye, por lo tanto el resorte pierde energía potencial elástica, por lo tanto, cuanto más se comprima o estire un resorte, mayor energía potencial elástica poseerá.
+
+
+> [!warning] Importante
+> A diferencia de la energía potencial gravitatoria, con la energía potencial elástica no podemos elegir donde colocar el $x=0$, debido a que la energía es propia del resorte.
+> Por lo tanto el $x=0$ deberá ser colocado en la posición donde el resorte no se encuentra deformado.
+
+Recordando el [[Trabajo y energía cinética#Teorema trabajo-energía|teorema trabajo-energía]] el cual establece $W=K_{2}-K_{1}$, si tenemos un sistema en donde el único trabajo es ejercido por el resorte, entonces:
+$$
+W_{tot}=W_{el}=U_{el,1}-U_{el,2}
+$$
+Comparando esto con el teorema de trabajo-energía $W_{tot}=K_{2}-K_{1}$:
+$$
+U_{el,1}+K_{1}=K_{2}+U_{el,2}
+$$
+Entonces, en estos casos, la energía mecánica total del sistema estaría dada por $E=K+U_{el}$.
+
+Para que esta forma funcione es fundamental que el resorte no posea masa, de lo contrario este factor intervendría al momento de tomar los cálculos.
+
+## Situaciones con energía potencial gravitatoria y elástica
+
+Las ecuaciones planteadas en la sección anterior funcionan si únicamente el resorte realiza trabajo, sin embargo, normalmente hay varios factores que realizan trabajo en un sistema, no solamente la fuerza del resorte es decir que existe un trabajo $W_{otras}$ realizado por cualquier otra fuerza, por lo tanto el trabajo total del sistema está dado por la suma de todos los trabajos realizados:
+$$
+W_{grav}+W_{el}+W_{otras}=K_{2}-K_{1}
+$$
+Debido a que sabemos que $W_{grav}=U_{grav,1}-U_{grav,2}$ y $W_{el}=U_{el,1}-U_{el,2}$, entonces definimos:
+$$
+K_{1}+U_{grav,1}+U_{el,1}+W_{otras}=U_{grav,2}+U_{el,2}+K_{2}
+$$
+O de forma resumida:
+$$
+K_{1}+U_{1}+W_{otras}=K_{2}+U_{2}
+$$
+Donde $U$ es la suma de las energías potenciales tanto elástica como gravitatoria, así que para abreviar, llamaremos a $U$ energía potencial.
+
+Ya conocido todo esto, es necesario establecer el sistema en donde se trabajarán con las energías potenciales, este estaría compuesto por el cuerpo de masa $m$, la tierra y el resorte de constante $k$.
+Si $W_{otras}$ es positivo, entonces $E=K+U$ aumenta, de igual manera, si $W_{otras}$ es negativo, entonces la energía mecánica del sistema disminuirá, y finalmente como tercer caso, si $W_{otras}=0$ entonces la energía mecánica total del sistema se conserva.
 
