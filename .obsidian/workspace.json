@@ -18,26 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9df0479e7157301f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                    "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "1f3298d7d0819e7a",
@@ -55,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                        "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -97,7 +84,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md"
+                        "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md"
                       }
                     }
                   }
@@ -119,7 +106,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 73.94957983193278,
+        "dimension": 73.94957983193277,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -160,7 +147,7 @@
       {
         "id": "28f3e612fcb45fce",
         "type": "tabs",
-        "dimension": 26.05042016806723,
+        "dimension": 26.050420168067227,
         "children": [
           {
             "id": "68ab3dfa393de2e8",
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Energía potencial.md"
+                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md"
               }
             }
           },
@@ -261,13 +248,13 @@
     }
   },
   "active": "e6ae078a3564626d",
-  "active": "9df0479e7157301f",
   "lastOpenFiles": [
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
     "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
+    "Energía potencialenergía potencial.md",
+    "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
     "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
-    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Programación Orientada a Objetos.md",
@@ -294,20 +281,10 @@
     "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
     "Ciclo_03/POO/Anexos",
     "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
-    "Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
-    "Ciclo_03/Fisica/Anexos/Repaso corto.md",
-    "Ciclo_03/Bases_de_Datos/Modelo relacional/Modelo relacional.md",
-    "Ciclo_03/Bases_de_Datos/Modelo relacional/Normalización.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-20 11.27.53.excalidraw.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/Drawing 2024-03-18 11.30.53.excalidraw.md",
     "Ciclo_03/Fisica/Anexos/Cálculo II",
     "Cálculo II/Pasted Image 20240415191033_428.png",
     "Ciclo_03/Fisica/Anexos",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
-    "Ciclo_03/Bases_de_Datos/Generalidades.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
     "Sin título.canvas",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",

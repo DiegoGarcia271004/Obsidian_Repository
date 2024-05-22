@@ -142,4 +142,3 @@ Donde $U$ es la suma de las energías potenciales tanto elástica como gravitato
 
 Ya conocido todo esto, es necesario establecer el sistema en donde se trabajarán con las energías potenciales, este estaría compuesto por el cuerpo de masa $m$, la tierra y el resorte de constante $k$.
 Si $W_{otras}$ es positivo, entonces $E=K+U$ aumenta, de igual manera, si $W_{otras}$ es negativo, entonces la energía mecánica del sistema disminuirá, y finalmente como tercer caso, si $W_{otras}=0$ entonces la energía mecánica total del sistema se conserva.
-
