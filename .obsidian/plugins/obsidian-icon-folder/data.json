@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaTriforce",
       "SiGutenberg",
       "BoBxMoveHorizontal",
       "IbCar",
-      "FiSettings",
-      "RiPencilFill"
+      "FiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -152,5 +152,6 @@
   "Ciclo_03/Fisica/Mecánica": "FiSettings",
   "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md": "IbCar",
   "Ciclo_03/Fisica/Mecánica/Potencia.md": "BoBxMoveHorizontal",
-  "Ciclo_03/Fisica/Mecánica/Energía potencial.md": "SiGutenberg"
+  "Ciclo_03/Fisica/Mecánica/Energía potencial.md": "SiGutenberg",
+  "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md": "RaTriforce"
 }

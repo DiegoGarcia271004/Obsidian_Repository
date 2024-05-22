@@ -16,11 +16,9 @@
                 "id": "e6ae078a3564626d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "excalidraw",
                   "state": {
-                    "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
                   }
                 }
               }
@@ -42,7 +40,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
+                        "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -65,7 +63,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1,
+                          "scale": 0.7132754626224422,
                           "close": true
                         }
                       }
@@ -84,7 +82,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md"
+                        "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
                       }
                     }
                   }
@@ -177,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
+                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
+                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md"
+                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
               }
             }
           },
@@ -249,12 +247,13 @@
   },
   "active": "e6ae078a3564626d",
   "lastOpenFiles": [
-    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
-    "Energía potencialenergía potencial.md",
+    "Drawing 2024-05-15 19.26.09.excalidraw.md",
     "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
+    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
+    "Energía potencialenergía potencial.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Programación Orientada a Objetos.md",
@@ -268,7 +267,6 @@
     "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
     "Ciclo_03/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
     "Ciclo_03/Fisica/Cinemática/1.1 Partícula, sistemas de referencia y desplazamiento.md",
-    "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Programa Domingo 18-5-2024.md",
     "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
     "Ciclo_03/POO/ROCIO ES LA MEJOR.md",
