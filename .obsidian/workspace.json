@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a70a25670f28bd58",
-        "type": "split",
+        "id": "27f74fb2c0c64077",
+        "type": "tabs",
         "children": [
           {
-            "id": "27f74fb2c0c64077",
-            "type": "tabs",
-            "dimension": 78.18035426731079,
-            "children": [
-              {
-                "id": "e6ae078a3564626d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
-                  }
-                }
+            "id": "e6ae078a3564626d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
               }
-            ]
-          },
-          {
-            "id": "1f3298d7d0819e7a",
-            "type": "split",
-            "dimension": 21.81964573268921,
-            "children": [
-              {
-                "id": "f85686a10686ffbb",
-                "type": "tabs",
-                "dimension": 32.878151260504204,
-                "children": [
-                  {
-                    "id": "b62b5b6323729411",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.7132754626224422,
-                          "close": true
-                        }
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "dc16c33dc2cbac90",
-                "type": "tabs",
-                "dimension": 67.12184873949579,
-                "children": [
-                  {
-                    "id": "65beaa1948c765f9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,12 +173,12 @@
   "active": "e6ae078a3564626d",
   "lastOpenFiles": [
     "Drawing 2024-05-15 19.26.09.excalidraw.md",
+    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
     "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
     "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
     "Ciclo_03/Fisica/Mecánica/Potencia.md",
     "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
     "Energía potencialenergía potencial.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
     "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
     "Ciclo_03/POO/Anexos/Linea de tiempo.md",
     "Ciclo_03/POO/Programación Orientada a Objetos.md",
