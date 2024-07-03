@@ -21,7 +21,7 @@
 		{"id":"f07106990792fdb0","type":"file","file":"Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png","x":-20,"y":580,"width":360,"height":400},
 		{"id":"1c6329c078087bec","type":"file","file":"Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/caso_a.png","x":420,"y":515,"width":400,"height":339},
 		{"id":"5e9a5bcfe57a737b","type":"file","file":"Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/caso_b.png","x":880,"y":515,"width":400,"height":354},
-		{"id":"2d50c3e60b4aa6f3","x":1340,"y":537,"width":400,"height":332,"type":"file","file":"Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png"}
+		{"id":"2d50c3e60b4aa6f3","type":"file","file":"Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png","x":1340,"y":537,"width":400,"height":332}
 	],
 	"edges":[]
 }

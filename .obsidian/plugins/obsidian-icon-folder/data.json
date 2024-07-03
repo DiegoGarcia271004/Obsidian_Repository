@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaTriforce",
-      "SiGutenberg",
-      "BoBxMoveHorizontal",
-      "IbCar",
-      "FiSettings"
+      "RiArrowTurnBackFill",
+      "RaWrench",
+      "RiItalic",
+      "TiRotate",
+      "TiRotate360"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -138,7 +138,6 @@
   "Ciclo_03/POO": "FasBarsProgress",
   "Ciclo_03/Calculo_III": "FasSquareRootVariable",
   "Ciclo_03/Bases_de_Datos": "FasDatabase",
-  "Ciclo_03/Fisica/Cinemática": "FasFolderTree",
   "Ciclo_03/POO/Programación Orientada a Objetos.md": "FabConnectdevelop",
   "Ciclo_03/Calculo_III/Anexos": "RiPencilFill",
   "Ciclo_03/Bases_de_Datos/Anexos": "RiPencilFill",
@@ -149,9 +148,19 @@
   "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md": "RiBracesFill",
   "Ciclo_03/Calculo_III/2. Series infinitas.md": "LiSigma",
   "Ciclo_03/POO/Anexos": "RiPencilFill",
-  "Ciclo_03/Fisica/Mecánica": "FiSettings",
-  "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md": "IbCar",
-  "Ciclo_03/Fisica/Mecánica/Potencia.md": "BoBxMoveHorizontal",
-  "Ciclo_03/Fisica/Mecánica/Energía potencial.md": "SiGutenberg",
-  "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md": "RaTriforce"
+  "Ciclo_03/Fisica/1 Cinemática": "FasFolderTree",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional": "TiRotate360",
+  "Ciclo_03/Fisica/4 Momento Lineal y colisiones": "RaBombExplosion",
+  "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Conservación del momento lineal y choques.md": "TiCarCrash",
+  "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Momento lineal e impulso.md": "TiArrowRightBar",
+  "Ciclo_03/Fisica/3 Trabajo y Energía": "FiSettings",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Energía potencial.md": "SiGutenberg",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerza y energía potencial.md": "SiUndertale",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Potencia.md": "BoBxMoveHorizontal",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Trabajo y energía cinética.md": "IbCar",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerzas conservativas y no conservativas.md": "RaTriforce",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Introducción.md": "RiItalic",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Velocidad y aceleración angular.md": "TiRotate",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md": "RaWrench",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md": "RiArrowTurnBackFill"
 }

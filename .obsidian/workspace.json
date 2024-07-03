@@ -4,20 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "27f74fb2c0c64077",
-        "type": "tabs",
+        "id": "24f0f278e66a59e2",
+        "type": "split",
         "children": [
           {
-            "id": "e6ae078a3564626d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
+            "id": "1ea1c2610920ab93",
+            "type": "tabs",
+            "dimension": 76.759410801964,
+            "children": [
+              {
+                "id": "f783df829b9ffd52",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "a7d79c0ae7c23329",
+            "type": "split",
+            "dimension": 23.24058919803601,
+            "children": [
+              {
+                "id": "6299cbbdafaa083a",
+                "type": "tabs",
+                "dimension": 38.655462184873954,
+                "children": [
+                  {
+                    "id": "1b20eb246a133bb6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "12a08f3494a20405"
+                  }
+                ]
+              },
+              {
+                "id": "5dc31381c63fd8e4",
+                "type": "tabs",
+                "dimension": 61.34453781512605,
+                "children": [
+                  {
+                    "id": "1929443877f6ec7b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md"
+                      }
+                    },
+                    "group": "12a08f3494a20405"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -29,7 +108,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 73.94957983193277,
+        "dimension": 70.62706270627062,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -68,12 +147,12 @@
         "currentTab": 2
       },
       {
-        "id": "28f3e612fcb45fce",
+        "id": "ef99e75570cecb8f",
         "type": "tabs",
-        "dimension": 26.050420168067227,
+        "dimension": 29.372937293729372,
         "children": [
           {
-            "id": "68ab3dfa393de2e8",
+            "id": "b0790302f34c1b54",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -84,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 334.5
   },
   "right": {
     "id": "c4245d20e68d0b81",
@@ -100,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +195,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +216,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,52 +245,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6ae078a3564626d",
+  "active": "b0790302f34c1b54",
   "lastOpenFiles": [
-    "Drawing 2024-05-15 19.26.09.excalidraw.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Tarea trabajo y energía.md",
-    "Ciclo_03/Fisica/Mecánica/Fuerzas conservativas y no conservativas.md",
-    "Ciclo_03/Fisica/Mecánica/Energía potencial.md",
-    "Ciclo_03/Fisica/Mecánica/Potencia.md",
-    "Ciclo_03/Fisica/Mecánica/Trabajo y energía cinética.md",
-    "Energía potencialenergía potencial.md",
-    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
-    "Ciclo_03/POO/Anexos/Linea de tiempo.md",
-    "Ciclo_03/POO/Programación Orientada a Objetos.md",
-    "Ciclo_03/POO/Fabricas de objetos.md",
-    "Programa Domingo 18-5-2024.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
-    "Ciclo_03/Calculo_III/2. Series infinitas.md",
-    "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
-    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md",
     "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
-    "Ciclo_03/Fisica/Cinemática/1.2 Aceleración media e instantánea.md",
-    "Ciclo_03/Fisica/Cinemática/1.1 Partícula, sistemas de referencia y desplazamiento.md",
-    "Programa Domingo 18-5-2024.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/2FN.md",
-    "Ciclo_03/POO/ROCIO ES LA MEJOR.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191220_128.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_700.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191148_671.png",
-    "Ciclo_03/Fisica/Anexos/Cálculo II/Pasted Image 20240415191132_638.png",
-    "Ciclo_03/Fisica/Mecánica",
-    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
-    "Ciclo_03/Fisica/Anexos/Diagramas de cuerpo libre.md",
-    "Ciclo_03/POO/Anexos",
-    "Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
-    "Ciclo_03/Fisica/Anexos/Cálculo II",
-    "Cálculo II/Pasted Image 20240415191033_428.png",
-    "Ciclo_03/Fisica/Anexos",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/Velocidad y aceleración angular.md",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md",
+    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
+    "Sin título 1.canvas",
     "Sin título.canvas",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
+    "Ciclo_03/Calculo_III/2. Series infinitas.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
+    "Ciclo_03/Fisica/1 Cinemática/1.2 Aceleración media e instantánea.md",
+    "Interciclo_23/Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
+    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
+    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410221742_851.png",
+    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410222129_669.png",
+    "Ciclo_03/Fisica/Anexos/Diagramas/Torque.md",
+    "Ciclo_03/Fisica/Anexos/Diagramas/Diagramas de cuerpo libre.md",
+    "Ciclo_03/Fisica/Anexos/Diagramas",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/Introducción.md",
+    "Drawing 2024-05-08 19.10.21.excalidraw.md",
+    "Drawing 2024-05-15 19.26.09.excalidraw.md",
+    "Ciclo_03/Fisica/Anexos/Imagenes/Rota.png",
+    "Prueba LaTex.md",
+    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md",
+    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
+    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
+    "Ciclo_03/Fisica/Anexos/Imagenes/Imagenes.canvas",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png",
+    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
+    "Interciclo_23/Calculo_II/Unidad 5/5.2 Cálculo aplicado a las funciones vectoriales.md",
+    "Ciclo_03/Fisica/Anexos/Imagenes/DR1.png",
+    "Ciclo_03/Fisica/Anexos/Imagenes",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/2 Velocidad y aceleración angular.md",
+    "Ciclo_03/Fisica/Anexos/Enunciados/Pasted Image 20240415191220_128.png",
+    "Ciclo_03/Fisica/Anexos/Enunciados/Pasted Image 20240415191148_671.png",
+    "Ciclo_03/Fisica/Anexos/Enunciados/Pasted Image 20240415191132_638.png",
+    "Ciclo_03/Fisica/Anexos/Repaso corto.md",
+    "Ciclo_03/Fisica/Anexos/Datos corto de laboratorio 2 física.md",
+    "Ciclo_03/Fisica/3 Trabajo y Energía/Energía potencial.md",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional",
+    "Ciclo_03/Fisica/4 Momento Lineal y colisiones",
+    "Ciclo_03/Fisica/3 Trabajo y Energía",
+    "Ciclo_03/POO/Anexos",
+    "Ciclo_03/Fisica/Anexos/Enunciados",
+    "Ciclo_03/Fisica/Anexos",
     "Ciclo_03/Bases_de_Datos/Modelo entidad-relación",
     "Ciclo_03/Calculo_III/Anexos",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II",
-    "Ciclo_03/Bases_de_Datos/Modelo relacional",
-    "Excalidraw",
-    "Ciclo_03/Bases_de_Datos/Anexos",
-    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
   ]
