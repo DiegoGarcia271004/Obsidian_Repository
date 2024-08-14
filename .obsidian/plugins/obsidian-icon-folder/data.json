@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiArrowTurnBackFill",
-      "RaWrench",
-      "RiItalic",
-      "TiRotate",
-      "TiRotate360"
+      "TiMathFunction",
+      "SiTv4play",
+      "RaEnergise",
+      "LiRotate3d",
+      "RiArrowTurnBackFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -154,13 +154,28 @@
   "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Conservación del momento lineal y choques.md": "TiCarCrash",
   "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Momento lineal e impulso.md": "TiArrowRightBar",
   "Ciclo_03/Fisica/3 Trabajo y Energía": "FiSettings",
-  "Ciclo_03/Fisica/3 Trabajo y Energía/Energía potencial.md": "SiGutenberg",
-  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerza y energía potencial.md": "SiUndertale",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Energía potencial.md": "RaEnergise",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerza y energía potencial.md": {
+    "iconName": "SiUndertale",
+    "iconColor": "#ff0000"
+  },
   "Ciclo_03/Fisica/3 Trabajo y Energía/Potencia.md": "BoBxMoveHorizontal",
   "Ciclo_03/Fisica/3 Trabajo y Energía/Trabajo y energía cinética.md": "IbCar",
-  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerzas conservativas y no conservativas.md": "RaTriforce",
+  "Ciclo_03/Fisica/3 Trabajo y Energía/Fuerzas conservativas y no conservativas.md": {
+    "iconName": "RaTriforce",
+    "iconColor": "#fff700"
+  },
   "Ciclo_03/Fisica/5 Dinámica Rotacional/Introducción.md": "RiItalic",
   "Ciclo_03/Fisica/5 Dinámica Rotacional/Velocidad y aceleración angular.md": "TiRotate",
-  "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md": "RaWrench",
-  "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md": "RiArrowTurnBackFill"
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md": {
+    "iconName": "RaWrench",
+    "iconColor": "#757575"
+  },
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md": "RiArrowTurnBackFill",
+  "Ciclo_03/Fisica/5 Dinámica Rotacional/Momento angular.md": {
+    "iconName": "LiRotate3d",
+    "iconColor": "#a6a84d"
+  },
+  "Ciclo_04": "SiTv4play",
+  "Ciclo_04/Ecuaciones_Diferenciales": "TiMathFunction"
 }
