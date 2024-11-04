@@ -102,3 +102,47 @@ j)&\\
 &=\frac{\sqrt{ 21 }}{6}
 \end{align*}
 $$
+$$
+\int _{0}^{2}\int _{x^{2}}^{4}\int _{0}^{x^{2}} \, dz  \, dy  \, dx 
+$$
+
+
+
+
+
+
+
+$$
+\begin{align*}
+I=\int e^{2x}\sin(3x) \, dx &\\
+u=e^{2x}\qquad du=2e^{2x}\\
+dv=\sin(3x)\,dx\qquad v=-\frac{\cos(3x)}{3}\\
+I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2}{3} \int e^{2x}\cos(3x) \, dx \\
+u=e^{2x}\qquad du=2e^{2x}dx\\
+dv=\cos(3x)dx\qquad v=\frac{1}{3}\sin(3x)\\
+I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2}{3}\left( \frac{e^{2x}\sin(3x)}{3}-\frac{2}{3} \int e^{2x}\sin(3x) \, dx  \right)\\
+I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2e^{2x}\sin(3x)}{9}-\frac{4}{9}\int e^{2x}\sin(3x) \, dx\\
+I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2e^{2x}\sin(3x)}{9}-\frac{4}{9}I\\
+I+\frac{4}{9}I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2e^{2x}\sin(3x)}{9}\\
+\frac{13}{9}I=-\frac{e^{2x}\cos(3x)}{3}+\frac{2e^{2x}\sin(3x)}{9}\\
+I=\frac{9}{13}\left( -\frac{e^{2x}\cos(3x)}{3}+\frac{2e^{2x}\sin(3x)}{9} \right)
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+I=\int e^{2x}\sin(3x) \, dx \\
+u=\sin(3x)\qquad du=3\cos(3x)\\
+dv=e^{2x}\,dx\qquad v=\frac{1}{2}e^{2x}\\
+I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{2}\int e^{2x}\cos(3x) \, dx \\
+u=\cos(3x)\qquad du=-3\sin(3x)\\
+dv=e^{2x}\,dx\qquad v=\frac{1}{2}e^{2x}\\
+I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{2}\left( \frac{1}{2}e^{2x}\cos(3x)+\frac{3}{2} \int e^{2x}\sin(3x) \, dx  \right)\\
+I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{4}e^{2x}\cos(3x)-\frac{9}{4}\int e^{2x}\sin(3x) \, dx \\
+I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{4}e^{2x}\cos(3x)-\frac{9}{4}I\\
+I+\frac{9}{4}I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{4}e^{2x}\cos(3x)\\
+\frac{13}{4}I=\frac{1}{2}e^{2x}\sin(3x)-\frac{3}{4}e^{2x}\cos(3x)\\
+I=\frac{4}{13}\left( \frac{1}{2}e^{2x}\sin(3x)-\frac{3}{4}e^{2x}\cos(3x) \right)
+\end{align*}
+$$

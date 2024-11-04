@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "69dc8b6e5d501950",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e618e202e5b32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b98f921d6c6c77d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6c48461c44a111",
+    "type": "split",
+    "children": [
+      {
+        "id": "31aff96cf041fd4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0597d493bc72d0bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "033da68862952ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "553091c4ed60d521",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5aa303b4496880de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcbe8990ed36c41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae3e55d64558b73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drawing 2024-10-30 21.02.22.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Drawing 2024-10-30 21.02.22.excalidraw"
+            }
+          },
+          {
+            "id": "3094e6afb737b826",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Drawing 2024-10-30 21.02.22.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Drawing 2024-10-30 21.02.22.excalidraw"
+            }
+          },
+          {
+            "id": "1b5b96405d07e406",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a9ce8e627627b3b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Drawing 2024-10-30 21.02.22.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Drawing 2024-10-30 21.02.22.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7b98f921d6c6c77d",
+  "lastOpenFiles": [
+    "Drawing 2024-10-30 21.02.22.excalidraw.md",
+    "Pasted Image 20241030211250_430.png"
+  ]
+}

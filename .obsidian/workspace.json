@@ -4,91 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea1c2610920ab93",
+        "id": "b448c0e649e21940",
         "type": "tabs",
-        "dimension": 72.91325695581014,
         "children": [
           {
-            "id": "f783df829b9ffd52",
+            "id": "03c5c258703ba162",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md"
-              }
-            },
-            "group": "d381eb9ee3f4cc20"
+                "file": "Ciclo_04/Programación web/Autenticación del lado del cliente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autenticación del lado del cliente"
+            }
           }
         ]
-      },
-      {
-        "id": "fad5935974cbf727",
-        "type": "split",
-        "dimension": 27.086743044189852,
-        "children": [
-          {
-            "id": "e571990adc7bd72c",
-            "type": "tabs",
-            "dimension": 33.403361344537814,
-            "children": [
-              {
-                "id": "398bba179f5976c1",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "d381eb9ee3f4cc20"
-              }
-            ]
-          },
-          {
-            "id": "01f9e5ce1de49160",
-            "type": "tabs",
-            "dimension": 66.59663865546219,
-            "children": [
-              {
-                "id": "01a181ca844bf85a",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md"
-                  }
-                },
-                "group": "d381eb9ee3f4cc20"
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -100,7 +33,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 70.62706270627062,
+        "dimension": 70.58823529411765,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -114,7 +47,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -122,7 +57,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
@@ -132,30 +69,34 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "ef99e75570cecb8f",
+        "id": "6ab49a4befb2eff9",
         "type": "tabs",
-        "dimension": 29.372937293729375,
+        "dimension": 29.411764705882355,
         "children": [
           {
-            "id": "b0790302f34c1b54",
+            "id": "01b96cf9cdcf1c7f",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 281.5
   },
   "right": {
     "id": "c4245d20e68d0b81",
@@ -173,32 +114,28 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "cc62308f4c19c392",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ae385efba45eb42",
+            "id": "3c916c2fcc79dc5c",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "09991dd6b06f125e",
+            "id": "4fcf20f8bbece7f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md",
+                "file": "Ciclo_04/Programación web/Deployment React-express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,23 +143,38 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Deployment React-express"
             }
           },
           {
-            "id": "7dc943a2fa255120",
+            "id": "7904225163db3e61",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md",
+                "file": "Ciclo_04/Programación web/Deployment React-express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Deployment React-express"
+            }
+          },
+          {
+            "id": "8dad9e4b356ab962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciclo_04/Programación web/Deployment React-express.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Deployment React-express"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,58 +193,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f783df829b9ffd52",
+  "active": "03c5c258703ba162",
   "lastOpenFiles": [
-    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-08 19.10.21.excalidraw.md",
-    "Ciclo_03/Calculo_III/Anexos/Drawing 2024-05-17 19.25.29.excalidraw.md",
-    "Ciclo_03/Calculo_III/2. Series infinitas.md",
-    "Ciclo_03/Calculo_III/1. Sucesiones Infinitas.md",
-    "Sin título 1.canvas",
-    "Sin título.canvas",
-    "Ciclo_03/Calculo_III/Anexos/Repaso 1parcial.md",
-    "Refuerzos/Tarea Racionalización Parte III.md",
-    "Refuerzos/Tarea Racionalización Parte II.md",
-    "Refuerzos/Tarea Racionalización.md",
-    "Ciclo_04/Ecuaciones_Diferenciales/Ecuaciones diferenciales por separación de variables.md",
-    "Refuerzos",
-    "Ciclo_04/Ecuaciones_Diferenciales/Introdución.md",
+    "Ciclo_04/Fïsica II/Termodinámica/2. Propiedades térmicas de la materia/Ecuaciones de estado.md",
+    "Ciclo_04/Programación web/Autenticación del lado del cliente.md",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Mecanismos de transferencia de calor.md",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor",
+    "Ciclo_04/Fïsica II/Termodinámica/2. Propiedades térmicas de la materia",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Calorímetría y cambios de fase.md",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Cantidad de Calor.md",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Dilatación térmica.md",
+    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Temperatura y equilibrio térmico.md",
+    "Refuerzos/Drawing 2024-09-02 19.14.02.excalidraw.md",
+    "Refuerzos/Drawing 2024-11-01 16.14.28.excalidraw.md",
     "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md",
-    "Ciclo_04/Ecuaciones_Diferenciales",
-    "Ciclo_04",
     "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Momento angular.md",
-    "Ciclo_03/Fisica/3 Trabajo y Energía/Trabajo y energía cinética.md",
-    "Refuerzos/Drawing 2024-05-15 19.26.09.excalidraw.md",
-    "Cálculo II/Pasted Image 20240703200651_218.png",
-    "Cálculo II",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Traslación y rotación de un cuerpo rígido.md",
-    "Ciclo_03/Bases_de_Datos/Anexos/Entidad.md",
     "Ciclo_03/Fisica/5 Dinámica Rotacional/Velocidad y aceleración angular.md",
-    "Interciclo_23/Calculo_II/Unidad 4/4.3 Aplicaciones de las integrales definidas.md",
+    "Ciclo_03/Fisica/5 Dinámica Rotacional/Introducción.md",
+    "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Momento lineal e impulso.md",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Drawing 2024-10-30 19.10.04.excalidraw.md",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión 05 Ciclo 02-2024.md",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión idk Ciclo 02-2024.md",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Drawing 2024-10-30 21.02.22.excalidraw.md",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión 04 Ciclo 02-2024.png",
+    "Cálculo II/Pasted Image 20241030191052_691.png",
+    "Cálculo II/Pasted Image 20241030191034_683.png",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Solución Parcial.md",
+    "Ciclo_04/Ecuaciones_Diferenciales/Ejercicios/Repaso.md",
+    "Interciclo_23/Excalidraw/Aplicaciones.png",
+    "Interciclo_23/Excalidraw/Aplicaciones.md",
     "Interciclo_23/Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
-    "Ciclo_03/Fisica/1 Cinemática/1.2 Aceleración media e instantánea.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-02-09 22.21.46.excalidraw.md",
-    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
-    "Interciclo_23/Calculo_II/Unidad 5/5.3 Aplicaciones de funciones vectoriales.md",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410221742_851.png",
-    "Interciclo_23/Calculo_II/Anexos/Cálculo II/Pasted Image 20240410222129_669.png",
-    "Ciclo_03/Fisica/Anexos/Diagramas/Torque.md",
-    "Ciclo_03/Fisica/Anexos/Diagramas",
-    "Ciclo_03/Fisica/Anexos/Imagenes/Rota.png",
-    "Ciclo_03/Fisica/Anexos/Imagenes/Imagenes.canvas",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png",
-    "Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png",
     "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
-    "Ciclo_03/Fisica/Anexos/Imagenes/DR1.png",
-    "Ciclo_03/Fisica/Anexos/Imagenes",
-    "Ciclo_03/Fisica/Anexos/Enunciados/Pasted Image 20240415191220_128.png",
-    "Ciclo_03/Fisica/Anexos/Enunciados/Pasted Image 20240415191148_671.png",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional",
-    "Ciclo_03/Fisica/4 Momento Lineal y colisiones",
-    "Ciclo_03/Fisica/3 Trabajo y Energía",
-    "Ciclo_03/POO/Anexos",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
+    "Ciclo_04/Programación web/Deployment React-express.md",
+    "Ciclo_04/Administración de Bases de Datos/Notas de Mauricio/Redo Log files.md",
+    "Ciclo_04/Administración de Bases de Datos/Notas de Mauricio",
+    "Ciclo_04/Programación web/Docker",
+    "Ciclo_04/Fïsica II/Termodinámica",
+    "Ciclo_04/Fïsica II/Ondas/Ondas sonoras",
+    "Ciclo_04/Fïsica II/Ondas",
+    "Ciclo_04/Programación web/React",
+    "Ciclo_04/Administración de Bases de Datos",
+    "Cálculo II/Pasted Image 20240912213723_131.png",
+    "Cálculo II/Pasted Image 20240912205418_125.png",
+    "Cálculo II/Pasted Image 20240912202457_138.png",
+    "Cálculo II/Pasted Image 20240912193536_128.png",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
+    "Ciclo_03/Fisica/Anexos/Imagenes/Imagenes.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
   ]

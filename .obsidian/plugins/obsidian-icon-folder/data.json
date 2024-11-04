@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCss3",
+      "TiDatabaseCog",
+      "LiThermometerSun",
       "TiMathFunction",
-      "SiTv4play",
-      "RaEnergise",
-      "LiRotate3d",
-      "RiArrowTurnBackFill"
+      "SiTv4play"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -177,5 +177,8 @@
     "iconColor": "#a6a84d"
   },
   "Ciclo_04": "SiTv4play",
-  "Ciclo_04/Ecuaciones_Diferenciales": "TiMathFunction"
+  "Ciclo_04/Ecuaciones_Diferenciales": "TiMathFunction",
+  "Ciclo_04/Fïsica II": "LiThermometerSun",
+  "Ciclo_04/Administración de Bases de Datos": "TiDatabaseCog",
+  "Ciclo_04/Programación web": "SiCss3"
 }
