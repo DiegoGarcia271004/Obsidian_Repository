@@ -32,4 +32,9 @@ Detener un container:
 docker container stop <container-name>
 ```
 
-:IbEye:
+## Volúmenes
+
+**Utilizando bind volumes**
+```powershell
+docker run -v <directory> node bash
+```

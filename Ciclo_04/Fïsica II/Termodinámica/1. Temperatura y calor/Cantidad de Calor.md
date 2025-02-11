@@ -39,3 +39,13 @@ A partir de esta ecuación, es posible encontrar el valor del calor necesario si
 $$
 Q=m\int _{T_{i}}^{Tf}c \, dT 
 $$
+
+$$
+\begin{align*}
+m_{agua}&=320g\\
+T_{0}&=10°C\\
+T_{f}&=60°C\\
+Q&=18kcal\\
+
+\end{align*}
+$$

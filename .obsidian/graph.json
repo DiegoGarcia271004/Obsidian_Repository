@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 2818303
       }
+    },
+    {
+      "query": "tag:#EMA  ",
+      "color": {
+        "a": 1,
+        "rgb": 12320512
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2516808839820721,
+  "scale": 0.11635570157963071,
   "close": true
 }

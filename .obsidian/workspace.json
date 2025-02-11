@@ -4,24 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "b448c0e649e21940",
+        "id": "2a470cce5169ff4a",
         "type": "tabs",
+        "dimension": 81.45580589254766,
         "children": [
           {
-            "id": "03c5c258703ba162",
+            "id": "633b05e4bf326c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo_04/Programación web/Autenticación del lado del cliente.md",
+                "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autenticación del lado del cliente"
+              "title": "Campos magnéticos"
+            },
+            "group": "f55791fed3c915aa"
+          },
+          {
+            "id": "4166f4c4981bf88d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/RC1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RC1"
             }
           }
         ]
+      },
+      {
+        "id": "9b128f04d05fd4e5",
+        "type": "split",
+        "dimension": 18.544194107452338,
+        "children": [
+          {
+            "id": "e07fa7a38933fa73",
+            "type": "tabs",
+            "dimension": 42.0353982300885,
+            "children": [
+              {
+                "id": "ac7b14fe48880c76",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792593,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de Campos magnéticos"
+                }
+              }
+            ]
+          },
+          {
+            "id": "903e1d619446ed67",
+            "type": "tabs",
+            "dimension": 57.9646017699115,
+            "children": [
+              {
+                "id": "f522e96395e8e690",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Esquema de Campos magnéticos"
+                },
+                "group": "f55791fed3c915aa"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -33,7 +122,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 70.58823529411765,
+        "dimension": 67.73897058823529,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -68,7 +157,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -78,12 +168,12 @@
         "currentTab": 2
       },
       {
-        "id": "6ab49a4befb2eff9",
+        "id": "dcf5d7c5d4398824",
         "type": "tabs",
-        "dimension": 29.411764705882355,
+        "dimension": 32.26102941176471,
         "children": [
           {
-            "id": "01b96cf9cdcf1c7f",
+            "id": "f2451a1573b58337",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -96,46 +186,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 328.5
   },
   "right": {
     "id": "c4245d20e68d0b81",
     "type": "split",
     "children": [
       {
-        "id": "d52297594058c251",
+        "id": "af79e4acce7ab13b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0928fcacc88d74",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "3c916c2fcc79dc5c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "4fcf20f8bbece7f5",
+            "id": "d0b0bdd73901e163",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo_04/Programación web/Deployment React-express.md",
+                "file": "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,33 +212,46 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Deployment React-express"
+              "title": "Enlaces entrantes de Resumen Parcial 2"
             }
           },
           {
-            "id": "7904225163db3e61",
+            "id": "a7738471ecadfa8b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo_04/Programación web/Deployment React-express.md",
+                "file": "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Deployment React-express"
+              "title": "Enlaces salientes de Resumen Parcial 2"
             }
           },
           {
-            "id": "8dad9e4b356ab962",
+            "id": "2d08a379c61e610e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "Ciclo_04/Programación web/Deployment React-express.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Esquema de Deployment React-express"
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dd305d5248aff1ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -193,50 +273,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03c5c258703ba162",
+  "active": "633b05e4bf326c7b",
   "lastOpenFiles": [
-    "Ciclo_04/Fïsica II/Termodinámica/2. Propiedades térmicas de la materia/Ecuaciones de estado.md",
-    "Ciclo_04/Programación web/Autenticación del lado del cliente.md",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Mecanismos de transferencia de calor.md",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor",
-    "Ciclo_04/Fïsica II/Termodinámica/2. Propiedades térmicas de la materia",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Calorímetría y cambios de fase.md",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Cantidad de Calor.md",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Dilatación térmica.md",
-    "Ciclo_04/Fïsica II/Termodinámica/1. Temperatura y calor/Temperatura y equilibrio térmico.md",
-    "Refuerzos/Drawing 2024-09-02 19.14.02.excalidraw.md",
-    "Refuerzos/Drawing 2024-11-01 16.14.28.excalidraw.md",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Rotación de un cuerpo rígido sobre un eje móvil.md",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Torque.md",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Velocidad y aceleración angular.md",
-    "Ciclo_03/Fisica/5 Dinámica Rotacional/Introducción.md",
-    "Ciclo_03/Fisica/4 Momento Lineal y colisiones/Momento lineal e impulso.md",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Drawing 2024-10-30 19.10.04.excalidraw.md",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión 05 Ciclo 02-2024.md",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión idk Ciclo 02-2024.md",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Drawing 2024-10-30 21.02.22.excalidraw.md",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Circuitos RC.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/RC1.md",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/Kirchhoff2.md",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Reglas de Kirchhoff.md",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/Kirchhoff1.md",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos",
+    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Potencial en disco.md",
+    "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
+    "Interciclo_24/Electricidad y Magnetismo/Magnetismo",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Campos eléctricos.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Dielectricos.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Capacitores2.md",
+    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Capacitores1.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Potencial eléctrico en un disco con carga.md",
+    "Ciclo_03/Fisica/3 Trabajo y Energía/Trabajo y energía cinética.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Potencial en alambre.md",
+    "Interciclo_24/Electricidad y Magnetismo/Introducción.md",
+    "Refuerzos/Tarea cálculos con raices.md",
+    "Refuerzos/Tarea Racionalización Parte III.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Dipolos eléctricos.md",
+    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Diagrama1.1.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Ley de Coulomb.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Diagrama1.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Carga eléctrica.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Litio-.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Litio+.md",
+    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos",
+    "Interciclo_24/Electricidad y Magnetismo",
+    "Interciclo_24",
+    "Ciclo_04/Fïsica II/Termodinámica/Segunda ley de la termodinámica",
     "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión 04 Ciclo 02-2024.png",
+    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
+    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
     "Cálculo II/Pasted Image 20241030191052_691.png",
     "Cálculo II/Pasted Image 20241030191034_683.png",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Solución Parcial.md",
-    "Ciclo_04/Ecuaciones_Diferenciales/Ejercicios/Repaso.md",
     "Interciclo_23/Excalidraw/Aplicaciones.png",
-    "Interciclo_23/Excalidraw/Aplicaciones.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-02-14 21.25.48.excalidraw.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.md",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-11 21.10.51.excalidraw.md",
-    "Ciclo_04/Programación web/Deployment React-express.md",
-    "Ciclo_04/Administración de Bases de Datos/Notas de Mauricio/Redo Log files.md",
-    "Ciclo_04/Administración de Bases de Datos/Notas de Mauricio",
-    "Ciclo_04/Programación web/Docker",
-    "Ciclo_04/Fïsica II/Termodinámica",
-    "Ciclo_04/Fïsica II/Ondas/Ondas sonoras",
-    "Ciclo_04/Fïsica II/Ondas",
-    "Ciclo_04/Programación web/React",
-    "Ciclo_04/Administración de Bases de Datos",
     "Cálculo II/Pasted Image 20240912213723_131.png",
     "Cálculo II/Pasted Image 20240912205418_125.png",
     "Cálculo II/Pasted Image 20240912202457_138.png",

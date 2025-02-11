@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaMagnet",
+      "TiItalic",
+      "TiBook",
       "SiCss3",
-      "TiDatabaseCog",
-      "LiThermometerSun",
-      "TiMathFunction",
-      "SiTv4play"
+      "TiDatabaseCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -180,5 +180,8 @@
   "Ciclo_04/Ecuaciones_Diferenciales": "TiMathFunction",
   "Ciclo_04/Fïsica II": "LiThermometerSun",
   "Ciclo_04/Administración de Bases de Datos": "TiDatabaseCog",
-  "Ciclo_04/Programación web": "SiCss3"
+  "Ciclo_04/Programación web": "SiCss3",
+  "Ciclo_04/Moral Sexual (Solo para una tarea)": "TiBook",
+  "Interciclo_24": "TiItalic",
+  "Interciclo_24/Electricidad y Magnetismo": "RaMagnet"
 }

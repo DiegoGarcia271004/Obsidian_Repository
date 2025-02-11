@@ -241,7 +241,7 @@
             "containerId": null,
             "originalText": "Table",
             "lineHeight": 1.25,
-            "baseline": 20
+            "baseline": 16
           },
           {
             "type": "line",
@@ -368,7 +368,7 @@
             "containerId": null,
             "originalText": "PK",
             "lineHeight": 1.25,
-            "baseline": 20
+            "baseline": 16
           },
           {
             "type": "text",
@@ -407,7 +407,7 @@
             "containerId": null,
             "originalText": "Id",
             "lineHeight": 1.25,
-            "baseline": 20
+            "baseline": 16
           }
         ],
         "id": "jkvpH1EwtTCvAVyiKyYnX",
