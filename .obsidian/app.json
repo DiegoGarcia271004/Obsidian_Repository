@@ -10,5 +10,7 @@
   },
   "useTab": true,
   "tabSize": 4,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "readableLineLength": true,
+  "showLineNumber": false
 }

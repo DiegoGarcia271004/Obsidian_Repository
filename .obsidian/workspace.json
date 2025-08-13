@@ -4,113 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2a470cce5169ff4a",
+        "id": "008d2c0735da26c9",
         "type": "tabs",
-        "dimension": 81.45580589254766,
         "children": [
           {
-            "id": "633b05e4bf326c7b",
+            "id": "541598c2923416ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
+                "file": "UCA/Ciclo_06/Análisis de Algoritmos/Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campos magnéticos"
-            },
-            "group": "f55791fed3c915aa"
-          },
-          {
-            "id": "4166f4c4981bf88d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/RC1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "RC1"
+              "title": "Introducción"
             }
           }
         ]
-      },
-      {
-        "id": "9b128f04d05fd4e5",
-        "type": "split",
-        "dimension": 18.544194107452338,
-        "children": [
-          {
-            "id": "e07fa7a38933fa73",
-            "type": "tabs",
-            "dimension": 42.0353982300885,
-            "children": [
-              {
-                "id": "ac7b14fe48880c76",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.5087618855792593,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Gráfico de Campos magnéticos"
-                }
-              }
-            ]
-          },
-          {
-            "id": "903e1d619446ed67",
-            "type": "tabs",
-            "dimension": 57.9646017699115,
-            "children": [
-              {
-                "id": "f522e96395e8e690",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Esquema de Campos magnéticos"
-                },
-                "group": "f55791fed3c915aa"
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -122,7 +33,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 67.73897058823529,
+        "dimension": 67.9,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -168,12 +79,12 @@
         "currentTab": 2
       },
       {
-        "id": "dcf5d7c5d4398824",
+        "id": "5cfb800906b59e6a",
         "type": "tabs",
-        "dimension": 32.26102941176471,
+        "dimension": 32.1,
         "children": [
           {
-            "id": "f2451a1573b58337",
+            "id": "288668170d6744fc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -202,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
+                "file": "UCA/Ciclo_05/Análisis de sistemas/Clases/Parcial 1/Clase 03, 17-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Resumen Parcial 2"
+              "title": "Enlaces entrantes de Clase 03, 17-03"
             }
           },
           {
@@ -221,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
+                "file": "UCA/Ciclo_05/Redes de computadoras/Clases/Clase 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Resumen Parcial 2"
+              "title": "Enlaces salientes de Clase 05"
             }
           },
           {
@@ -253,12 +164,38 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "2067940c97db78fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UCA/Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Campos eléctricos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Campos eléctricos"
+            }
+          },
+          {
+            "id": "02d6517c9ff95c46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 397.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -273,58 +210,61 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "633b05e4bf326c7b",
+  "active": "541598c2923416ca",
   "lastOpenFiles": [
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Circuitos RC.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Resumen Parcial 2.md",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/RC1.md",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/Kirchhoff2.md",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Reglas de Kirchhoff.md",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos/Kirchhoff1.md",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica/Anexos",
-    "Interciclo_24/Electricidad y Magnetismo/Electrodinámica",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Potencial en disco.md",
-    "Interciclo_24/Electricidad y Magnetismo/Magnetismo/Campos magnéticos.md",
-    "Interciclo_24/Electricidad y Magnetismo/Magnetismo",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Campos eléctricos.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Dielectricos.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Capacitores2.md",
-    "Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Capacitores1.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Potencial eléctrico en un disco con carga.md",
-    "Ciclo_03/Fisica/3 Trabajo y Energía/Trabajo y energía cinética.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos/Potencial en alambre.md",
-    "Interciclo_24/Electricidad y Magnetismo/Introducción.md",
-    "Refuerzos/Tarea cálculos con raices.md",
-    "Refuerzos/Tarea Racionalización Parte III.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico/Anexos",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Dipolos eléctricos.md",
-    "Interciclo_24/Electricidad y Magnetismo/Potencial Eléctrico",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Diagrama1.1.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Ley de Coulomb.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Diagrama1.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Carga eléctrica.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Litio-.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Anexos/Litio+.md",
-    "Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos",
-    "Interciclo_24/Electricidad y Magnetismo",
-    "Interciclo_24",
-    "Ciclo_04/Fïsica II/Termodinámica/Segunda ley de la termodinámica",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Discusión 04 Ciclo 02-2024.png",
-    "Interciclo_23/Excalidraw/Drawing 2024-04-10 20.50.15.excalidraw.png",
-    "Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
-    "Cálculo II/Pasted Image 20241030191052_691.png",
-    "Cálculo II/Pasted Image 20241030191034_683.png",
-    "Interciclo_23/Excalidraw/Aplicaciones.png",
-    "Cálculo II/Pasted Image 20240912213723_131.png",
-    "Cálculo II/Pasted Image 20240912205418_125.png",
-    "Cálculo II/Pasted Image 20240912202457_138.png",
-    "Cálculo II/Pasted Image 20240912193536_128.png",
+    "UCA/Ciclo_04/Programación web/React/React.md",
+    "UCA/Ciclo_06/Análisis de Algoritmos/Introducción.md",
+    "UCA/Ciclo_06/Introducción a ddhh",
+    "UCA/Ciclo_06/Programación de Artefactos",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo",
+    "UCA/Ciclo_06/Análisis de Algoritmos",
+    "UCA/Ciclo_06",
+    "UCA/Ciclo_05/Análisis numérico/Análisis del sistema.md",
+    "UCA/Ciclo_05/Análisis numérico/Representación numérica.md",
+    "UCA/Ciclo_05/Análisis numérico/Drawing 2025-04-25 12.45.43.excalidraw.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 4.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 3.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 2.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 1.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Solución Parcial.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 05 Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.png",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 03 Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 2 Ciclo 02-2024.md",
+    "UCA/Ciclo_05/Redes de computadoras/Anexos/Comandos 2.md",
+    "UCA/Ciclo_05/Redes de computadoras/Anexos/Comandos.md",
+    "UCA/Ciclo_05/Probabilidad y estadística/Repaso parcial III.md",
+    "Cursos/Pag Web Tía.md",
+    "Refuerzos/MD/Drawing 2025-06-12 18.17.18.excalidraw.md",
+    "Refuerzos/MD/Drawing 2025-03-27 19.07.32.excalidraw.md",
+    "Refuerzos/Drawing 2024-05-08 19.10.21.excalidraw.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Propuesta de proyecto.md",
+    "UCA/Ciclo_05/Probabilidad y estadística/Repaso corto III.md",
+    "UCA/Ciclo_05/Probabilidad y estadística/Funciones teóricas de probabilidad.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Viabilidad.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Funciones Módulos y Servicios.md",
+    "UCA/Plan de carrera.canvas",
+    "UCA/Proyectos DEI/Vive la UCA",
+    "UCA/Proyectos DEI",
+    "Cursos/Data communication and Network/Aspectos básicos de redes",
+    "Cursos/Data communication and Network",
+    "Cursos/Charla kubernet",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Discusión 7 Notebook.png",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
+    "Cálculo II/Pasted Image 20250410205755_552.png",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Anexos/Sesión Virtual.png",
+    "Cálculo II/Pasted Image 20250404103245_845.jpg",
+    "Cálculo II/Pasted Image 20250404102428_345.png",
+    "Cálculo II/Pasted Image 20250403212642_580.png",
+    "Cálculo II/Pasted Image 20250327171105_219.png",
+    "Cálculo II/Pasted Image 20250327170057_220.png",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Sin título.canvas",
+    "UCA/Interciclo_24/Electricidad y Magnetismo/Magnetismo/Anexos/Fotos.canvas",
     "Sin título 1.canvas",
     "Sin título.canvas",
-    "Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
-    "Ciclo_03/Fisica/Anexos/Imagenes/Imagenes.canvas",
+    "UCA/Interciclo_23/Calculo_II/Anexos/Archivos.canvas",
+    "UCA/Ciclo_03/Fisica/Anexos/Imagenes/Imagenes.canvas",
     "Cálculo II/Unidad 2/Untitled.canvas",
     "Untitled.canvas"
   ]

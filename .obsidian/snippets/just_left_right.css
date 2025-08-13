@@ -18,3 +18,7 @@ img[alt*="center"]{
   justify-content: center;
   align-items: center;
 }
+
+table, .table-wrapper {
+  margin-inline: auto;
+}

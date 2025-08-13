@@ -1,4 +1,4 @@
-$$\sum{^{{\infty}}_{i=0}}
+$$\sum{^{{\infty}}_{i=0}}\sum_{i=0}^{\infty}
 $$
 $$x{^n}+y{^n}=z{^n}$$
 $$a_{0}+\cfrac{1}{a_{1}+\cfrac{1}{a_{2}+\cfrac{1}{a_{3}+\cfrac{1}{a_{4}+\dots}}}}$$

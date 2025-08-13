@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"777575c8459a891b","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Recta_num.png","x":-460,"y":-360,"width":397,"height":29},
+		{"id":"118b8cebead116d6","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Recta_num2.png","x":-463,"y":-300,"width":395,"height":30},
+		{"id":"34c35b86327f5787","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Recta_num3.png","x":-463,"y":-240,"width":400,"height":35},
+		{"id":"d8417fbd24e20a9b","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Sumas.png","x":-468,"y":-680,"width":400,"height":247},
+		{"id":"6c61a09884ea30b0","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Restricciones.png","x":-460,"y":-160,"width":400,"height":308},
+		{"id":"92dc8abd2b4b95af","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Solido_de_revolucion.png","x":-460,"y":200,"width":400,"height":315},
+		{"id":"989396f8ad495962","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Secciones_transversales.png","x":-20,"y":200,"width":400,"height":232},
+		{"id":"634d56a86cda2950","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Solidos_anulares.png","x":-20,"y":-176,"width":400,"height":340},
+		{"id":"6dc1d2579b0bbfa9","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/ejemplo_revolucion.png","x":-20,"y":-621,"width":400,"height":399},
+		{"id":"fb1b9872bc7397cf","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/longitud.png","x":420,"y":-621,"width":400,"height":198},
+		{"id":"042ee159613d935e","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Diagrama_1.1.png","x":420,"y":-376,"width":335,"height":400},
+		{"id":"6d8d7b706a3b7130","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/bombeo.png","x":420,"y":80,"width":400,"height":307},
+		{"id":"8099f04a05fa417e","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/bombeo1.png","x":800,"y":-301,"width":400,"height":325},
+		{"id":"942d57539c66e6fa","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Placas.png","x":840,"y":106,"width":400,"height":281},
+		{"id":"2b9d384042595d31","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/placa1.png","x":880,"y":-621,"width":400,"height":280},
+		{"id":"5ed0590e64f1cc34","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/coordenadas.png","x":1240,"y":-301,"width":399,"height":348},
+		{"id":"a237ac3ed5dd132b","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Polares.png","x":1280,"y":106,"width":400,"height":369},
+		{"id":"34a338541b727094","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Esféricas.png","x":-460,"y":580,"width":360,"height":400},
+		{"id":"f07106990792fdb0","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Cilíndricas.png","x":-20,"y":580,"width":360,"height":400},
+		{"id":"1c6329c078087bec","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/caso_a.png","x":420,"y":515,"width":400,"height":339},
+		{"id":"5e9a5bcfe57a737b","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/caso_b.png","x":880,"y":515,"width":400,"height":354},
+		{"id":"2d50c3e60b4aa6f3","type":"file","file":"UCA/Interciclo_23/Calculo_II/Anexos/PNG/Cálculo II/Caso_c.png","x":1340,"y":537,"width":400,"height":332}
+	],
+	"edges":[]
+}

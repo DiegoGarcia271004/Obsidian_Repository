@@ -1,0 +1,13 @@
+---
+tags:
+  - ASistemas
+---
+- Tarjeta de crédito
+- Posts de pago
+- Facturas
+- Banco
+- Dinero
+- Cliente
+- Admin
+- DUI
+- 
