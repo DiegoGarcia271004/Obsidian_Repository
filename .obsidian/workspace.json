@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "008d2c0735da26c9",
+        "id": "e48d9415613d6ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "541598c2923416ca",
+            "id": "9474a4b437d29f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCA/Ciclo_06/Análisis de Algoritmos/Introducción.md",
+                "file": "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/AES (Advanced Encryption Standard).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "AES (Advanced Encryption Standard)"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "9a57133086af3292",
         "type": "tabs",
-        "dimension": 67.9,
+        "dimension": 70.73707370737074,
         "children": [
           {
             "id": "8818c16c4f22c359",
@@ -79,12 +79,12 @@
         "currentTab": 2
       },
       {
-        "id": "5cfb800906b59e6a",
+        "id": "d475f9ee008e0c64",
         "type": "tabs",
-        "dimension": 32.1,
+        "dimension": 29.262926292629267,
         "children": [
           {
-            "id": "288668170d6744fc",
+            "id": "c55b2b5e59daf550",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -200,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -210,46 +211,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "541598c2923416ca",
+  "active": "9474a4b437d29f51",
   "lastOpenFiles": [
-    "UCA/Ciclo_04/Programación web/React/React.md",
-    "UCA/Ciclo_06/Análisis de Algoritmos/Introducción.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/SHA-1.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Algoritmo Deutsch-Jozsa.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Kerberos.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/ElGamal.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/QKD (Quantum Key Distribution).md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Blowfish.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Dilithium.md",
+    "Sin título.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/AES (Advanced Encryption Standard).md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 7.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Protocolos de seguridad de la información.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Deutsch-Jozsa.md",
+    "UCA/Ciclo_05/Probabilidad y estadística/Estudio Primer Parcial.md",
+    "UCA/Ciclo_06/Instructorías/MDII/Discusión 1 14-8.md",
+    "UCA/Ciclo_06/Instructorías/MDII/Discusión 2 21-8.md",
+    "UCA/Ciclo_06/Instructorías/MDII/mi parte.md",
+    "UCA/Ciclo_06/Instructorías/MDII/Discusión 3.md",
+    "UCA/Ciclo_06/Instructorías/MDII/Anexos/Ej3LitA1.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 2.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 1.md",
+    "UCA/Plan de carrera.canvas",
+    "UCA/Ciclo_05/Análisis de sistemas/Actividades/Objetos del sistema de tarjetas de crédito.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/DFDAmbiental.png",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Drawing 2025-05-31 20.51.20.excalidraw.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Diagrama iterativo.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Modern Modeller.md",
+    "UCA/Ciclo_05/Análisis de sistemas/Clases/Repaso corto de administración de proyectos.md",
+    "UCA/Ciclo_05/Programación de dispositivos móviles/Clases/Consumo de APIS.md",
+    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones",
+    "Sin título.base",
+    "UCA/Ciclo_06/Instructorías/MDII/Anexos",
+    "UCA/Ciclo_06/Instructorías/MDII",
+    "UCA/Ciclo_06/Instructorías",
     "UCA/Ciclo_06/Introducción a ddhh",
     "UCA/Ciclo_06/Programación de Artefactos",
     "UCA/Ciclo_06/Seguridad en Entornos de desarrollo",
     "UCA/Ciclo_06/Análisis de Algoritmos",
     "UCA/Ciclo_06",
-    "UCA/Ciclo_05/Análisis numérico/Análisis del sistema.md",
-    "UCA/Ciclo_05/Análisis numérico/Representación numérica.md",
-    "UCA/Ciclo_05/Análisis numérico/Drawing 2025-04-25 12.45.43.excalidraw.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 4.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 3.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 2.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 1.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Solución Parcial.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 05 Ciclo 02-2024.md",
     "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.png",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 03 Ciclo 02-2024.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 2 Ciclo 02-2024.md",
-    "UCA/Ciclo_05/Redes de computadoras/Anexos/Comandos 2.md",
-    "UCA/Ciclo_05/Redes de computadoras/Anexos/Comandos.md",
-    "UCA/Ciclo_05/Probabilidad y estadística/Repaso parcial III.md",
-    "Cursos/Pag Web Tía.md",
-    "Refuerzos/MD/Drawing 2025-06-12 18.17.18.excalidraw.md",
-    "Refuerzos/MD/Drawing 2025-03-27 19.07.32.excalidraw.md",
-    "Refuerzos/Drawing 2024-05-08 19.10.21.excalidraw.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Propuesta de proyecto.md",
-    "UCA/Ciclo_05/Probabilidad y estadística/Repaso corto III.md",
-    "UCA/Ciclo_05/Probabilidad y estadística/Funciones teóricas de probabilidad.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Viabilidad.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Tareas/Funciones Módulos y Servicios.md",
-    "UCA/Plan de carrera.canvas",
-    "UCA/Proyectos DEI/Vive la UCA",
-    "UCA/Proyectos DEI",
-    "Cursos/Data communication and Network/Aspectos básicos de redes",
-    "Cursos/Data communication and Network",
-    "Cursos/Charla kubernet",
     "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Discusión 7 Notebook.png",
     "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
     "Cálculo II/Pasted Image 20250410205755_552.png",
@@ -258,7 +260,6 @@
     "Cálculo II/Pasted Image 20250404102428_345.png",
     "Cálculo II/Pasted Image 20250403212642_580.png",
     "Cálculo II/Pasted Image 20250327171105_219.png",
-    "Cálculo II/Pasted Image 20250327170057_220.png",
     "UCA/Ciclo_05/Análisis de sistemas/Anexos/Sin título.canvas",
     "UCA/Interciclo_24/Electricidad y Magnetismo/Magnetismo/Anexos/Fotos.canvas",
     "Sin título 1.canvas",

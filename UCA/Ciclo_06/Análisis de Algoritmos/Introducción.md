@@ -13,4 +13,3 @@ a_{1}'\leq a_{2}'\leq a_{3}'\le \dots \leq a_{n}'
 \end{gather*}
 $$
 
-	

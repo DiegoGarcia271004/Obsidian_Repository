@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDice6",
-      "OcProjectSymlink24",
-      "TiMathIntegrals",
-      "FiPercent",
-      "TiPlugConnected"
+      "LiDollarSign",
+      "SiSpringsecurity",
+      "TiRobot",
+      "TiZzz",
+      "SiThealgorithms"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -190,5 +190,10 @@
   "UCA/Ciclo_05/Probabilidad y estadística": "FiPercent",
   "UCA/Ciclo_05/Análisis numérico": "TiMathIntegrals",
   "UCA/Ciclo_05/Análisis de sistemas": "OcProjectSymlink24",
-  "UCA/Ciclo_06": "LiDice6"
+  "UCA/Ciclo_06": "LiDice6",
+  "UCA/Ciclo_06/Análisis de Algoritmos": "SiThealgorithms",
+  "UCA/Ciclo_06/Introducción a ddhh": "TiZzz",
+  "UCA/Ciclo_06/Programación de Artefactos": "TiRobot",
+  "UCA/Ciclo_06/Seguridad en Entornos de desarrollo": "SiSpringsecurity",
+  "UCA/Ciclo_06/Instructorías": "LiDollarSign"
 }
