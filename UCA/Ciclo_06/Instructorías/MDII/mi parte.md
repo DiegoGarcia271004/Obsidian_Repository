@@ -63,3 +63,13 @@ Cómo es normal en la matemática, hay que tener claro varios conceptos. Estos h
 > - Liste los nueve posibles resultados.
 > - Considere el evento de que las dos bolas sacadas hayan sido azules. Liste todos los posibles resultados y calcule su probabilidad.
 > - Considere el evento de que una bola haya sido azul, y la otra blanca. Liste todos los posibles resultados y calcule su probabilidad.
+
+$$
+\int _{0}^{\infty} e^{-\ln(x)^{2}}\, dx 
+$$
+$$
+\begin{gather*}
+\frac{1}{e^{\ln(x)\cdot \ln x}}\\
+du=-\frac{1}{x}e
+\end{gather*}
+$$

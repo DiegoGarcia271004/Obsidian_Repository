@@ -1,7 +1,8 @@
 {
-  "accentColor": "#d49640",
+  "accentColor": "#ffa200",
   "enabledCssSnippets": [
     "just_left_right"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Tokyo Night"
 }

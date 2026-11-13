@@ -40,6 +40,10 @@ En general para los ejercicios relacionados a estos temas se buscará utilizar �
 
 ---
 
+$$
+\int _{a}^{b} f(x) \, dx 
+$$
+
 ### Ejercicios
 
 1) Se dan cargas eléctricas positivas a dos esferas pequeñas de plástico. Cuando están separadas a una distancia de $15\,\mathrm{cm}$, la fuerza de repulsión entre ellas tiene una magnitud de $0.22\,\mathrm{N}$.

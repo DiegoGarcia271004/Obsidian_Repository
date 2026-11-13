@@ -85,7 +85,7 @@ Resuelva las siguientes ecuaciones diferenciales:
 
 1) $\frac{dy}{dx}+4xy=0$ 
 $$
-\begin{align*}
+\begin{align*}\\
 \frac{dy}{dx}&=-4xy\\
 dy&=-4xy\,dx\\
 \frac{dy}{y}&=-4x\,dx\\

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e48d9415613d6ca9",
+        "id": "99e4c3bb7064ae84",
         "type": "tabs",
         "children": [
           {
-            "id": "9474a4b437d29f51",
+            "id": "1919e69696ab19fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/AES (Advanced Encryption Standard).md",
+                "file": "UCA/Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AES (Advanced Encryption Standard)"
+              "title": "3.3 Integración por sustitución trigonométrica"
+            }
+          },
+          {
+            "id": "afcb5ded30f91b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 11 Ciclo 02-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discusión 11 Ciclo 02-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -113,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UCA/Ciclo_05/Análisis de sistemas/Clases/Parcial 1/Clase 03, 17-03.md",
+                "file": "Proyectos/Chatbot/Flujo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Clase 03, 17-03"
+              "title": "Enlaces entrantes de Flujo"
             }
           },
           {
@@ -132,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UCA/Ciclo_05/Redes de computadoras/Clases/Clase 05.md",
+                "file": "UCA/Ciclo_07/Arquitectura de computadoras/Servidores/Taller IX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Clase 05"
+              "title": "Enlaces salientes de Taller IX"
             }
           },
           {
@@ -186,8 +203,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -207,59 +224,59 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "system3-relay:Relay": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "9474a4b437d29f51",
+  "active": "afcb5ded30f91b4b",
   "lastOpenFiles": [
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/SHA-1.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Algoritmo Deutsch-Jozsa.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Kerberos.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/ElGamal.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/QKD (Quantum Key Distribution).md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Blowfish.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Dilithium.md",
-    "Sin título.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/AES (Advanced Encryption Standard).md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 7.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Protocolos de seguridad de la información.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones/Deutsch-Jozsa.md",
-    "UCA/Ciclo_05/Probabilidad y estadística/Estudio Primer Parcial.md",
-    "UCA/Ciclo_06/Instructorías/MDII/Discusión 1 14-8.md",
-    "UCA/Ciclo_06/Instructorías/MDII/Discusión 2 21-8.md",
-    "UCA/Ciclo_06/Instructorías/MDII/mi parte.md",
-    "UCA/Ciclo_06/Instructorías/MDII/Discusión 3.md",
-    "UCA/Ciclo_06/Instructorías/MDII/Anexos/Ej3LitA1.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 2.md",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 1.md",
-    "UCA/Plan de carrera.canvas",
-    "UCA/Ciclo_05/Análisis de sistemas/Actividades/Objetos del sistema de tarjetas de crédito.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Anexos/DFDAmbiental.png",
-    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Drawing 2025-05-31 20.51.20.excalidraw.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Diagrama iterativo.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Anexos/Modern Modeller.md",
-    "UCA/Ciclo_05/Análisis de sistemas/Clases/Repaso corto de administración de proyectos.md",
-    "UCA/Ciclo_05/Programación de dispositivos móviles/Clases/Consumo de APIS.md",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Presentaciones",
-    "Sin título.base",
-    "UCA/Ciclo_06/Instructorías/MDII/Anexos",
-    "UCA/Ciclo_06/Instructorías/MDII",
-    "UCA/Ciclo_06/Instructorías",
-    "UCA/Ciclo_06/Introducción a ddhh",
-    "UCA/Ciclo_06/Programación de Artefactos",
-    "UCA/Ciclo_06/Seguridad en Entornos de desarrollo",
-    "UCA/Ciclo_06/Análisis de Algoritmos",
-    "UCA/Ciclo_06",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.png",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Discusión 7 Notebook.png",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión idk Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Drawing 2024-10-30 19.10.04.excalidraw.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Solución Parcial.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Drawing 2024-10-30 21.02.22.excalidraw.md",
     "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Excalidraw/Pasted Image 20241030211250_430.png",
-    "Cálculo II/Pasted Image 20250410205755_552.png",
-    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Anexos/Sesión Virtual.png",
-    "Cálculo II/Pasted Image 20250404103245_845.jpg",
-    "Cálculo II/Pasted Image 20250404102428_345.png",
-    "Cálculo II/Pasted Image 20250403212642_580.png",
-    "Cálculo II/Pasted Image 20250327171105_219.png",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 05 Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 02-2024/Discusión 04 Ciclo 02-2024.md",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/CÁLCULO III 02-2024/Discusión #11.pdf",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/CÁLCULO III 02-2024/Discusión #1 04.pdf",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/CÁLCULO III 02-2024/Discusión #1 01.pdf",
+    "UCA/Ciclo_03/Calculo_III/Discusiones (Instructor)/Ciclo 01-2025/Discusión 1.md",
+    "Sin título.md",
+    "UCA/Ciclo_04/Ecuaciones_Diferenciales/Ecuaciones diferenciales por separación de variables (E.D.V.S).md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 1/1.1 Integrales definidas.md",
+    "UCA/Interciclo_24/Electricidad y Magnetismo/Carga eléctrica y campos eléctricos/Ley de Coulomb.md",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Clase 01.md",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Clase 02.md",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Diagrama de casos de uso.md",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/BBDD.md",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Clase 03.md",
+    "Refuerzos/Refuerzo Rodri.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 3/3.3 Integración por sustitución trigonométrica.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 3/3.2 Integración por partes.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 2/2.1 Funciones inyectivas y funciones inversas.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 2/2.2 Cálculo aplicado a la función logaritmo natural y exponencial.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 2/2.3 Funciones logarítmicas y exponenciales con otras bases.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 2/2.4 Modelos exponenciales.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 2/2.5 Funciones trigonométricas inversas.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 3/3.1 Integrales de potencias de funciones trigonométricas.md",
+    "UCA/Interciclo_23/Calculo_II/Unidad 1/1.2 Integrales definidas con límite superior variable.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "Cálculo II/Pasted image 20261018221100.png",
+    "Cálculo II/Pasted image 20261018220940.png",
+    "Cálculo II/Pasted image 20261014191228.png",
+    "Cálculo II/Pasted image 20261014191211.png",
+    "Cálculo II/Pasted image 20261014190701.png",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Unidad 4",
+    "UCA/Ciclo_08/Programación Declarativa/Laboratorio3.png",
+    "UCA/Ciclo_08/Ingeniería de Software",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/DCUE.drawio.png",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/DFDHijo.png",
+    "UCA/Ciclo_05/Análisis de sistemas/Anexos/DCUE(solo).png",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos/Sin título.base",
+    "UCA/Ciclo_08/Formulación y Evaluación de Proyectos",
+    "UCA/Plan de carrera.canvas",
     "UCA/Ciclo_05/Análisis de sistemas/Anexos/Sin título.canvas",
     "UCA/Interciclo_24/Electricidad y Magnetismo/Magnetismo/Anexos/Fotos.canvas",
     "Sin título 1.canvas",

@@ -1,15 +1,16 @@
 [
   "obsidian-latex-suite",
   "quick-latex",
-  "obsidian-image-auto-upload-plugin",
   "mysnippets-plugin",
   "obsidian-wrap-with-shortcuts",
   "obsidian-icon-folder",
   "obsidian-desmos",
   "calendar",
-  "obsidian-excalidraw-plugin",
-  "drawio-obsidian",
   "obsidian-orthography",
   "callout-manager",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "system3-relay",
+  "obsidian-plugin-toc",
+  "advanced-multi-column",
+  "obsidian-excalidraw-plugin"
 ]

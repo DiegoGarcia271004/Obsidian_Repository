@@ -1,0 +1,67 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Bit masking",
+      "guid": "6257e829-c2e2-48bd-9b7f-137a811be4c1",
+      "relay": "e02327cd-9240-4b4e-8447-be2eaf8873e3",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "UCA/Ciclo_06/Seguridad en Entornos de desarrollo/Proyecto",
+      "guid": "9af61af9-3218-4073-8f37-785aee7bc181",
+      "relay": "2cd2ce8c-a864-4ed8-8089-acb3058ad877",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    },
+    {
+      "path": "Neural Networks",
+      "guid": "e3c352da-8202-4aca-8f39-f070e0f7c814",
+      "relay": "e02327cd-9240-4b4e-8447-be2eaf8873e3",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": false,
+  "debugging": false,
+  "login": {
+    "provider": "microsoft"
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
+}

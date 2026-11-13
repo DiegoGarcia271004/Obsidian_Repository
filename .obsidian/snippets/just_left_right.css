@@ -7,12 +7,27 @@
   hyphens: auto;
 }
 
-img[alt*="center"]{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.markdown-rendered img[alt*="center"],
+.markdown-source-view.mod-cm6 .cm-content img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+/* Wikilinks de Obsidian */
+.internal-embed[alt*="center"] img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Opcional:
+   evitar que imágenes gigantes rompan el layout */
+.markdown-rendered img,
+.internal-embed img {
+    max-width: 100%;
+    height: auto;
+}
 .block-language-desmos-graph{
   display: flex;
   justify-content: center;

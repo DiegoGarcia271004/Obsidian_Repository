@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDollarSign",
-      "SiSpringsecurity",
-      "TiRobot",
-      "TiZzz",
-      "SiThealgorithms"
+      "SiV8",
+      "SiGoogleoptimize",
+      "SiSpringboot",
+      "OcGraph16",
+      "IbChip"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -195,5 +195,11 @@
   "UCA/Ciclo_06/Introducción a ddhh": "TiZzz",
   "UCA/Ciclo_06/Programación de Artefactos": "TiRobot",
   "UCA/Ciclo_06/Seguridad en Entornos de desarrollo": "SiSpringsecurity",
-  "UCA/Ciclo_06/Instructorías": "LiDollarSign"
+  "UCA/Ciclo_06/Instructorías": "LiDollarSign",
+  "UCA/Ciclo_07": "TiCircleDashedNumber7",
+  "UCA/Ciclo_07/Arquitectura de computadoras": "IbChip",
+  "UCA/Ciclo_07/Fundamentos de inteligencia de negocios": "OcGraph16",
+  "UCA/Ciclo_07/Programación n-capas": "SiSpringboot",
+  "UCA/Ciclo_07/Simulación de computadoras": "SiGoogleoptimize",
+  "UCA/Ciclo_08": "SiV8"
 }
